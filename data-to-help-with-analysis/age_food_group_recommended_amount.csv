@@ -1,0 +1,721 @@
+age,food_group,average_taken,recommended_low,recommended_high
+1,dairy,367.5,300,375
+1,fruits,225,150,225
+1,grains,585,450,750
+1,protein,405,300,600
+1,vegetable,105,150,225
+1,Fats Oils Salad dressings,10.5,15,16.5
+2,dairy,367.5,300,375
+2,fruits,225,150,225
+2,grains,585,450,750
+2,protein,405,300,600
+2,vegetable,105,150,225
+2,Fats Oils Salad dressings,10.5,15,16.5
+3,dairy,367.5,300,375
+3,fruits,225,150,225
+3,grains,585,450,750
+3,protein,405,300,600
+3,vegetable,105,150,225
+3,Fats Oils Salad dressings,10.5,15,16.5
+4,dairy,322.5,375,450
+4,fruits,180,150,262.5
+4,grains,877.5,600,900
+4,protein,540,450,787.5
+4,vegetable,120,225,375
+4,Fats Oils Salad dressings,15,16.5,25.5
+5,dairy,322.5,375,450
+5,fruits,180,150,262.5
+5,grains,877.5,600,900
+5,protein,540,450,787.5
+5,vegetable,120,225,375
+5,Fats Oils Salad dressings,15,16.5,25.5
+6,dairy,322.5,375,450
+6,fruits,180,150,262.5
+6,grains,877.5,600,900
+6,protein,540,450,787.5
+6,vegetable,120,225,375
+6,Fats Oils Salad dressings,15,16.5,25.5
+7,dairy,322.5,375,450
+7,fruits,180,150,262.5
+7,grains,877.5,600,900
+7,protein,540,450,787.5
+7,vegetable,120,225,375
+7,Fats Oils Salad dressings,15,16.5,25.5
+8,dairy,322.5,375,450
+8,fruits,180,150,262.5
+8,grains,877.5,600,900
+8,protein,540,450,787.5
+8,vegetable,120,225,375
+8,Fats Oils Salad dressings,15,16.5,25.5
+9,dairy,330,435,465
+9,fruits,165,225,300
+9,grains,1035,750,1200
+9,protein,682.5,675,937.5
+9,vegetable,157.5,262.5,450
+9,Fats Oils Salad dressings,18,19.5,31.5
+10,dairy,330,435,465
+10,fruits,165,225,300
+10,grains,1035,750,1200
+10,protein,682.5,675,937.5
+10,vegetable,157.5,262.5,450
+10,Fats Oils Salad dressings,18,19.5,31.5
+11,dairy,330,435,465
+11,fruits,165,225,300
+11,grains,1035,750,1200
+11,protein,682.5,675,937.5
+11,vegetable,157.5,262.5,450
+11,Fats Oils Salad dressings,18,19.5,31.5
+12,dairy,330,435,465
+12,fruits,165,225,300
+12,grains,1035,750,1200
+12,protein,682.5,675,937.5
+12,vegetable,157.5,262.5,450
+12,Fats Oils Salad dressings,18,19.5,31.5
+13,dairy,330,435,465
+13,fruits,165,225,300
+13,grains,1035,750,1200
+13,protein,682.5,675,937.5
+13,vegetable,157.5,262.5,450
+13,Fats Oils Salad dressings,18,19.5,31.5
+14,dairy,307.5,435,465
+14,fruits,135,262.5,337.5
+14,grains,1072.5,900,1350
+14,protein,765,787.5,1012.5
+14,vegetable,180,375,525
+14,Fats Oils Salad dressings,21,25.5,40.5
+15,dairy,307.5,435,465
+15,fruits,135,262.5,337.5
+15,grains,1072.5,900,1350
+15,protein,765,787.5,1012.5
+15,vegetable,180,375,525
+15,Fats Oils Salad dressings,21,25.5,40.5
+16,dairy,307.5,435,465
+16,fruits,135,262.5,337.5
+16,grains,1072.5,900,1350
+16,protein,765,787.5,1012.5
+16,vegetable,180,375,525
+16,Fats Oils Salad dressings,21,25.5,40.5
+17,dairy,307.5,435,465
+17,fruits,135,262.5,337.5
+17,grains,1072.5,900,1350
+17,protein,765,787.5,1012.5
+17,vegetable,180,375,525
+17,Fats Oils Salad dressings,21,25.5,40.5
+18,dairy,307.5,435,465
+18,fruits,135,262.5,337.5
+18,grains,1072.5,900,1350
+18,protein,765,787.5,1012.5
+18,vegetable,180,375,525
+18,Fats Oils Salad dressings,21,25.5,40.5
+19,dairy,255,435,465
+19,fruits,135,262.5,337.5
+19,grains,1050,1050,1350
+19,protein,922.5,862.5,1012.5
+19,vegetable,232.5,412.5,525
+19,Fats Oils Salad dressings,21,27,37.5
+20,dairy,255,435,465
+20,fruits,135,262.5,337.5
+20,grains,1050,1050,1350
+20,protein,922.5,862.5,1012.5
+20,vegetable,232.5,412.5,525
+20,Fats Oils Salad dressings,21,27,37.5
+21,dairy,255,435,465
+21,fruits,135,262.5,337.5
+21,grains,1050,1050,1350
+21,protein,922.5,862.5,1012.5
+21,vegetable,232.5,412.5,525
+21,Fats Oils Salad dressings,21,27,37.5
+22,dairy,255,435,465
+22,fruits,135,262.5,337.5
+22,grains,1050,1050,1350
+22,protein,922.5,862.5,1012.5
+22,vegetable,232.5,412.5,525
+22,Fats Oils Salad dressings,21,27,37.5
+23,dairy,255,435,465
+23,fruits,135,262.5,337.5
+23,grains,1050,1050,1350
+23,protein,922.5,862.5,1012.5
+23,vegetable,232.5,412.5,525
+23,Fats Oils Salad dressings,21,27,37.5
+24,dairy,255,435,465
+24,fruits,135,262.5,337.5
+24,grains,1050,1050,1350
+24,protein,922.5,862.5,1012.5
+24,vegetable,232.5,412.5,525
+24,Fats Oils Salad dressings,21,27,37.5
+25,dairy,255,435,465
+25,fruits,135,262.5,337.5
+25,grains,1050,1050,1350
+25,protein,922.5,862.5,1012.5
+25,vegetable,232.5,412.5,525
+25,Fats Oils Salad dressings,21,27,37.5
+26,dairy,255,435,465
+26,fruits,135,262.5,337.5
+26,grains,1050,1050,1350
+26,protein,922.5,862.5,1012.5
+26,vegetable,232.5,412.5,525
+26,Fats Oils Salad dressings,21,27,37.5
+27,dairy,255,435,465
+27,fruits,135,262.5,337.5
+27,grains,1050,1050,1350
+27,protein,922.5,862.5,1012.5
+27,vegetable,232.5,412.5,525
+27,Fats Oils Salad dressings,21,27,37.5
+28,dairy,255,435,465
+28,fruits,135,262.5,337.5
+28,grains,1050,1050,1350
+28,protein,922.5,862.5,1012.5
+28,vegetable,232.5,412.5,525
+28,Fats Oils Salad dressings,21,27,37.5
+29,dairy,255,435,465
+29,fruits,135,262.5,337.5
+29,grains,1050,1050,1350
+29,protein,922.5,862.5,1012.5
+29,vegetable,232.5,412.5,525
+29,Fats Oils Salad dressings,21,27,37.5
+30,dairy,255,435,465
+30,fruits,135,262.5,337.5
+30,grains,1050,1050,1350
+30,protein,922.5,862.5,1012.5
+30,vegetable,232.5,412.5,525
+30,Fats Oils Salad dressings,21,27,37.5
+31,dairy,240,435,465
+31,fruits,135,262.5,337.5
+31,grains,997.5,975,1275
+31,protein,990,825,975
+31,vegetable,262.5,412.5,525
+31,Fats Oils Salad dressings,22.5,27,36
+32,dairy,240,435,465
+32,fruits,135,262.5,337.5
+32,grains,997.5,975,1275
+32,protein,990,825,975
+32,vegetable,262.5,412.5,525
+32,Fats Oils Salad dressings,22.5,27,36
+33,dairy,240,435,465
+33,fruits,135,262.5,337.5
+33,grains,997.5,975,1275
+33,protein,990,825,975
+33,vegetable,262.5,412.5,525
+33,Fats Oils Salad dressings,22.5,27,36
+34,dairy,240,435,465
+34,fruits,135,262.5,337.5
+34,grains,997.5,975,1275
+34,protein,990,825,975
+34,vegetable,262.5,412.5,525
+34,Fats Oils Salad dressings,22.5,27,36
+35,dairy,240,435,465
+35,fruits,135,262.5,337.5
+35,grains,997.5,975,1275
+35,protein,990,825,975
+35,vegetable,262.5,412.5,525
+35,Fats Oils Salad dressings,22.5,27,36
+36,dairy,240,435,465
+36,fruits,135,262.5,337.5
+36,grains,997.5,975,1275
+36,protein,990,825,975
+36,vegetable,262.5,412.5,525
+36,Fats Oils Salad dressings,22.5,27,36
+37,dairy,240,435,465
+37,fruits,135,262.5,337.5
+37,grains,997.5,975,1275
+37,protein,990,825,975
+37,vegetable,262.5,412.5,525
+37,Fats Oils Salad dressings,22.5,27,36
+38,dairy,240,435,465
+38,fruits,135,262.5,337.5
+38,grains,997.5,975,1275
+38,protein,990,825,975
+38,vegetable,262.5,412.5,525
+38,Fats Oils Salad dressings,22.5,27,36
+39,dairy,240,435,465
+39,fruits,135,262.5,337.5
+39,grains,997.5,975,1275
+39,protein,990,825,975
+39,vegetable,262.5,412.5,525
+39,Fats Oils Salad dressings,22.5,27,36
+40,dairy,240,435,465
+40,fruits,135,262.5,337.5
+40,grains,997.5,975,1275
+40,protein,990,825,975
+40,vegetable,262.5,412.5,525
+40,Fats Oils Salad dressings,22.5,27,36
+41,dairy,240,435,465
+41,fruits,135,262.5,337.5
+41,grains,997.5,975,1275
+41,protein,990,825,975
+41,vegetable,262.5,412.5,525
+41,Fats Oils Salad dressings,22.5,27,36
+42,dairy,240,435,465
+42,fruits,135,262.5,337.5
+42,grains,997.5,975,1275
+42,protein,990,825,975
+42,vegetable,262.5,412.5,525
+42,Fats Oils Salad dressings,22.5,27,36
+43,dairy,240,435,465
+43,fruits,135,262.5,337.5
+43,grains,997.5,975,1275
+43,protein,990,825,975
+43,vegetable,262.5,412.5,525
+43,Fats Oils Salad dressings,22.5,27,36
+44,dairy,240,435,465
+44,fruits,135,262.5,337.5
+44,grains,997.5,975,1275
+44,protein,990,825,975
+44,vegetable,262.5,412.5,525
+44,Fats Oils Salad dressings,22.5,27,36
+45,dairy,240,435,465
+45,fruits,135,262.5,337.5
+45,grains,997.5,975,1275
+45,protein,990,825,975
+45,vegetable,262.5,412.5,525
+45,Fats Oils Salad dressings,22.5,27,36
+46,dairy,240,435,465
+46,fruits,135,262.5,337.5
+46,grains,997.5,975,1275
+46,protein,990,825,975
+46,vegetable,262.5,412.5,525
+46,Fats Oils Salad dressings,22.5,27,36
+47,dairy,240,435,465
+47,fruits,135,262.5,337.5
+47,grains,997.5,975,1275
+47,protein,990,825,975
+47,vegetable,262.5,412.5,525
+47,Fats Oils Salad dressings,22.5,27,36
+48,dairy,240,435,465
+48,fruits,135,262.5,337.5
+48,grains,997.5,975,1275
+48,protein,990,825,975
+48,vegetable,262.5,412.5,525
+48,Fats Oils Salad dressings,22.5,27,36
+49,dairy,240,435,465
+49,fruits,135,262.5,337.5
+49,grains,997.5,975,1275
+49,protein,990,825,975
+49,vegetable,262.5,412.5,525
+49,Fats Oils Salad dressings,22.5,27,36
+50,dairy,240,435,465
+50,fruits,135,262.5,337.5
+50,grains,997.5,975,1275
+50,protein,990,825,975
+50,vegetable,262.5,412.5,525
+50,Fats Oils Salad dressings,22.5,27,36
+51,dairy,232.5,435,465
+51,fruits,180,262.5,337.5
+51,grains,900,825,1275
+51,protein,930,787.5,975
+51,vegetable,277.5,337.5,487.5
+51,Fats Oils Salad dressings,22.5,24,33
+52,dairy,232.5,435,465
+52,fruits,180,262.5,337.5
+52,grains,900,825,1275
+52,protein,930,787.5,975
+52,vegetable,277.5,337.5,487.5
+52,Fats Oils Salad dressings,22.5,24,33
+53,dairy,232.5,435,465
+53,fruits,180,262.5,337.5
+53,grains,900,825,1275
+53,protein,930,787.5,975
+53,vegetable,277.5,337.5,487.5
+53,Fats Oils Salad dressings,22.5,24,33
+54,dairy,232.5,435,465
+54,fruits,180,262.5,337.5
+54,grains,900,825,1275
+54,protein,930,787.5,975
+54,vegetable,277.5,337.5,487.5
+54,Fats Oils Salad dressings,22.5,24,33
+55,dairy,232.5,435,465
+55,fruits,180,262.5,337.5
+55,grains,900,825,1275
+55,protein,930,787.5,975
+55,vegetable,277.5,337.5,487.5
+55,Fats Oils Salad dressings,22.5,24,33
+56,dairy,232.5,435,465
+56,fruits,180,262.5,337.5
+56,grains,900,825,1275
+56,protein,930,787.5,975
+56,vegetable,277.5,337.5,487.5
+56,Fats Oils Salad dressings,22.5,24,33
+57,dairy,232.5,435,465
+57,fruits,180,262.5,337.5
+57,grains,900,825,1275
+57,protein,930,787.5,975
+57,vegetable,277.5,337.5,487.5
+57,Fats Oils Salad dressings,22.5,24,33
+58,dairy,232.5,435,465
+58,fruits,180,262.5,337.5
+58,grains,900,825,1275
+58,protein,930,787.5,975
+58,vegetable,277.5,337.5,487.5
+58,Fats Oils Salad dressings,22.5,24,33
+59,dairy,232.5,435,465
+59,fruits,180,262.5,337.5
+59,grains,900,825,1275
+59,protein,930,787.5,975
+59,vegetable,277.5,337.5,487.5
+59,Fats Oils Salad dressings,22.5,24,33
+60,dairy,232.5,435,465
+60,fruits,180,262.5,337.5
+60,grains,900,825,1275
+60,protein,930,787.5,975
+60,vegetable,277.5,337.5,487.5
+60,Fats Oils Salad dressings,22.5,24,33
+61,dairy,232.5,435,465
+61,fruits,180,262.5,337.5
+61,grains,900,825,1275
+61,protein,930,787.5,975
+61,vegetable,277.5,337.5,487.5
+61,Fats Oils Salad dressings,22.5,24,33
+62,dairy,232.5,435,465
+62,fruits,180,262.5,337.5
+62,grains,900,825,1275
+62,protein,930,787.5,975
+62,vegetable,277.5,337.5,487.5
+62,Fats Oils Salad dressings,22.5,24,33
+63,dairy,232.5,435,465
+63,fruits,180,262.5,337.5
+63,grains,900,825,1275
+63,protein,930,787.5,975
+63,vegetable,277.5,337.5,487.5
+63,Fats Oils Salad dressings,22.5,24,33
+64,dairy,232.5,435,465
+64,fruits,180,262.5,337.5
+64,grains,900,825,1275
+64,protein,930,787.5,975
+64,vegetable,277.5,337.5,487.5
+64,Fats Oils Salad dressings,22.5,24,33
+65,dairy,232.5,435,465
+65,fruits,180,262.5,337.5
+65,grains,900,825,1275
+65,protein,930,787.5,975
+65,vegetable,277.5,337.5,487.5
+65,Fats Oils Salad dressings,22.5,24,33
+66,dairy,232.5,435,465
+66,fruits,180,262.5,337.5
+66,grains,900,825,1275
+66,protein,930,787.5,975
+66,vegetable,277.5,337.5,487.5
+66,Fats Oils Salad dressings,22.5,24,33
+67,dairy,232.5,435,465
+67,fruits,180,262.5,337.5
+67,grains,900,825,1275
+67,protein,930,787.5,975
+67,vegetable,277.5,337.5,487.5
+67,Fats Oils Salad dressings,22.5,24,33
+68,dairy,232.5,435,465
+68,fruits,180,262.5,337.5
+68,grains,900,825,1275
+68,protein,930,787.5,975
+68,vegetable,277.5,337.5,487.5
+68,Fats Oils Salad dressings,22.5,24,33
+69,dairy,232.5,435,465
+69,fruits,180,262.5,337.5
+69,grains,900,825,1275
+69,protein,930,787.5,975
+69,vegetable,277.5,337.5,487.5
+69,Fats Oils Salad dressings,22.5,24,33
+70,dairy,232.5,435,465
+70,fruits,180,262.5,337.5
+70,grains,900,825,1275
+70,protein,930,787.5,975
+70,vegetable,277.5,337.5,487.5
+70,Fats Oils Salad dressings,22.5,24,33
+71,dairy,217.5,435,465
+71,fruits,202.5,262.5,337.5
+71,grains,817.5,825,1275
+71,protein,750,787.5,975
+71,vegetable,240,337.5,487.5
+71,Fats Oils Salad dressings,18,24,33
+72,dairy,217.5,435,465
+72,fruits,202.5,262.5,337.5
+72,grains,817.5,825,1275
+72,protein,750,787.5,975
+72,vegetable,240,337.5,487.5
+72,Fats Oils Salad dressings,18,24,33
+73,dairy,217.5,435,465
+73,fruits,202.5,262.5,337.5
+73,grains,817.5,825,1275
+73,protein,750,787.5,975
+73,vegetable,240,337.5,487.5
+73,Fats Oils Salad dressings,18,24,33
+74,dairy,217.5,435,465
+74,fruits,202.5,262.5,337.5
+74,grains,817.5,825,1275
+74,protein,750,787.5,975
+74,vegetable,240,337.5,487.5
+74,Fats Oils Salad dressings,18,24,33
+75,dairy,217.5,435,465
+75,fruits,202.5,262.5,337.5
+75,grains,817.5,825,1275
+75,protein,750,787.5,975
+75,vegetable,240,337.5,487.5
+75,Fats Oils Salad dressings,18,24,33
+76,dairy,217.5,435,465
+76,fruits,202.5,262.5,337.5
+76,grains,817.5,825,1275
+76,protein,750,787.5,975
+76,vegetable,240,337.5,487.5
+76,Fats Oils Salad dressings,18,24,33
+77,dairy,217.5,435,465
+77,fruits,202.5,262.5,337.5
+77,grains,817.5,825,1275
+77,protein,750,787.5,975
+77,vegetable,240,337.5,487.5
+77,Fats Oils Salad dressings,18,24,33
+78,dairy,217.5,435,465
+78,fruits,202.5,262.5,337.5
+78,grains,817.5,825,1275
+78,protein,750,787.5,975
+78,vegetable,240,337.5,487.5
+78,Fats Oils Salad dressings,18,24,33
+79,dairy,217.5,435,465
+79,fruits,202.5,262.5,337.5
+79,grains,817.5,825,1275
+79,protein,750,787.5,975
+79,vegetable,240,337.5,487.5
+79,Fats Oils Salad dressings,18,24,33
+80,dairy,217.5,435,465
+80,fruits,202.5,262.5,337.5
+80,grains,817.5,825,1275
+80,protein,750,787.5,975
+80,vegetable,240,337.5,487.5
+80,Fats Oils Salad dressings,18,24,33
+81,dairy,217.5,435,465
+81,fruits,202.5,262.5,337.5
+81,grains,817.5,825,1275
+81,protein,750,787.5,975
+81,vegetable,240,337.5,487.5
+81,Fats Oils Salad dressings,18,24,33
+82,dairy,217.5,435,465
+82,fruits,202.5,262.5,337.5
+82,grains,817.5,825,1275
+82,protein,750,787.5,975
+82,vegetable,240,337.5,487.5
+82,Fats Oils Salad dressings,18,24,33
+83,dairy,217.5,435,465
+83,fruits,202.5,262.5,337.5
+83,grains,817.5,825,1275
+83,protein,750,787.5,975
+83,vegetable,240,337.5,487.5
+83,Fats Oils Salad dressings,18,24,33
+84,dairy,217.5,435,465
+84,fruits,202.5,262.5,337.5
+84,grains,817.5,825,1275
+84,protein,750,787.5,975
+84,vegetable,240,337.5,487.5
+84,Fats Oils Salad dressings,18,24,33
+85,dairy,217.5,435,465
+85,fruits,202.5,262.5,337.5
+85,grains,817.5,825,1275
+85,protein,750,787.5,975
+85,vegetable,240,337.5,487.5
+85,Fats Oils Salad dressings,18,24,33
+86,dairy,217.5,435,465
+86,fruits,202.5,262.5,337.5
+86,grains,817.5,825,1275
+86,protein,750,787.5,975
+86,vegetable,240,337.5,487.5
+86,Fats Oils Salad dressings,18,24,33
+87,dairy,217.5,435,465
+87,fruits,202.5,262.5,337.5
+87,grains,817.5,825,1275
+87,protein,750,787.5,975
+87,vegetable,240,337.5,487.5
+87,Fats Oils Salad dressings,18,24,33
+88,dairy,217.5,435,465
+88,fruits,202.5,262.5,337.5
+88,grains,817.5,825,1275
+88,protein,750,787.5,975
+88,vegetable,240,337.5,487.5
+88,Fats Oils Salad dressings,18,24,33
+89,dairy,217.5,435,465
+89,fruits,202.5,262.5,337.5
+89,grains,817.5,825,1275
+89,protein,750,787.5,975
+89,vegetable,240,337.5,487.5
+89,Fats Oils Salad dressings,18,24,33
+90,dairy,217.5,435,465
+90,fruits,202.5,262.5,337.5
+90,grains,817.5,825,1275
+90,protein,750,787.5,975
+90,vegetable,240,337.5,487.5
+90,Fats Oils Salad dressings,18,24,33
+91,dairy,217.5,435,465
+91,fruits,202.5,262.5,337.5
+91,grains,817.5,825,1275
+91,protein,750,787.5,975
+91,vegetable,240,337.5,487.5
+91,Fats Oils Salad dressings,18,24,33
+92,dairy,217.5,435,465
+92,fruits,202.5,262.5,337.5
+92,grains,817.5,825,1275
+92,protein,750,787.5,975
+92,vegetable,240,337.5,487.5
+92,Fats Oils Salad dressings,18,24,33
+93,dairy,217.5,435,465
+93,fruits,202.5,262.5,337.5
+93,grains,817.5,825,1275
+93,protein,750,787.5,975
+93,vegetable,240,337.5,487.5
+93,Fats Oils Salad dressings,18,24,33
+94,dairy,217.5,435,465
+94,fruits,202.5,262.5,337.5
+94,grains,817.5,825,1275
+94,protein,750,787.5,975
+94,vegetable,240,337.5,487.5
+94,Fats Oils Salad dressings,18,24,33
+95,dairy,217.5,435,465
+95,fruits,202.5,262.5,337.5
+95,grains,817.5,825,1275
+95,protein,750,787.5,975
+95,vegetable,240,337.5,487.5
+95,Fats Oils Salad dressings,18,24,33
+96,dairy,217.5,435,465
+96,fruits,202.5,262.5,337.5
+96,grains,817.5,825,1275
+96,protein,750,787.5,975
+96,vegetable,240,337.5,487.5
+96,Fats Oils Salad dressings,18,24,33
+97,dairy,217.5,435,465
+97,fruits,202.5,262.5,337.5
+97,grains,817.5,825,1275
+97,protein,750,787.5,975
+97,vegetable,240,337.5,487.5
+97,Fats Oils Salad dressings,18,24,33
+98,dairy,217.5,435,465
+98,fruits,202.5,262.5,337.5
+98,grains,817.5,825,1275
+98,protein,750,787.5,975
+98,vegetable,240,337.5,487.5
+98,Fats Oils Salad dressings,18,24,33
+99,dairy,217.5,435,465
+99,fruits,202.5,262.5,337.5
+99,grains,817.5,825,1275
+99,protein,750,787.5,975
+99,vegetable,240,337.5,487.5
+99,Fats Oils Salad dressings,18,24,33
+100,dairy,217.5,435,465
+100,fruits,202.5,262.5,337.5
+100,grains,817.5,825,1275
+100,protein,750,787.5,975
+100,vegetable,240,337.5,487.5
+100,Fats Oils Salad dressings,18,24,33
+101,dairy,217.5,435,465
+101,fruits,202.5,262.5,337.5
+101,grains,817.5,825,1275
+101,protein,750,787.5,975
+101,vegetable,240,337.5,487.5
+101,Fats Oils Salad dressings,18,24,33
+102,dairy,217.5,435,465
+102,fruits,202.5,262.5,337.5
+102,grains,817.5,825,1275
+102,protein,750,787.5,975
+102,vegetable,240,337.5,487.5
+102,Fats Oils Salad dressings,18,24,33
+103,dairy,217.5,435,465
+103,fruits,202.5,262.5,337.5
+103,grains,817.5,825,1275
+103,protein,750,787.5,975
+103,vegetable,240,337.5,487.5
+103,Fats Oils Salad dressings,18,24,33
+104,dairy,217.5,435,465
+104,fruits,202.5,262.5,337.5
+104,grains,817.5,825,1275
+104,protein,750,787.5,975
+104,vegetable,240,337.5,487.5
+104,Fats Oils Salad dressings,18,24,33
+105,dairy,217.5,435,465
+105,fruits,202.5,262.5,337.5
+105,grains,817.5,825,1275
+105,protein,750,787.5,975
+105,vegetable,240,337.5,487.5
+105,Fats Oils Salad dressings,18,24,33
+106,dairy,217.5,435,465
+106,fruits,202.5,262.5,337.5
+106,grains,817.5,825,1275
+106,protein,750,787.5,975
+106,vegetable,240,337.5,487.5
+106,Fats Oils Salad dressings,18,24,33
+107,dairy,217.5,435,465
+107,fruits,202.5,262.5,337.5
+107,grains,817.5,825,1275
+107,protein,750,787.5,975
+107,vegetable,240,337.5,487.5
+107,Fats Oils Salad dressings,18,24,33
+108,dairy,217.5,435,465
+108,fruits,202.5,262.5,337.5
+108,grains,817.5,825,1275
+108,protein,750,787.5,975
+108,vegetable,240,337.5,487.5
+108,Fats Oils Salad dressings,18,24,33
+109,dairy,217.5,435,465
+109,fruits,202.5,262.5,337.5
+109,grains,817.5,825,1275
+109,protein,750,787.5,975
+109,vegetable,240,337.5,487.5
+109,Fats Oils Salad dressings,18,24,33
+110,dairy,217.5,435,465
+110,fruits,202.5,262.5,337.5
+110,grains,817.5,825,1275
+110,protein,750,787.5,975
+110,vegetable,240,337.5,487.5
+110,Fats Oils Salad dressings,18,24,33
+111,dairy,217.5,435,465
+111,fruits,202.5,262.5,337.5
+111,grains,817.5,825,1275
+111,protein,750,787.5,975
+111,vegetable,240,337.5,487.5
+111,Fats Oils Salad dressings,18,24,33
+112,dairy,217.5,435,465
+112,fruits,202.5,262.5,337.5
+112,grains,817.5,825,1275
+112,protein,750,787.5,975
+112,vegetable,240,337.5,487.5
+112,Fats Oils Salad dressings,18,24,33
+113,dairy,217.5,435,465
+113,fruits,202.5,262.5,337.5
+113,grains,817.5,825,1275
+113,protein,750,787.5,975
+113,vegetable,240,337.5,487.5
+113,Fats Oils Salad dressings,18,24,33
+114,dairy,217.5,435,465
+114,fruits,202.5,262.5,337.5
+114,grains,817.5,825,1275
+114,protein,750,787.5,975
+114,vegetable,240,337.5,487.5
+114,Fats Oils Salad dressings,18,24,33
+115,dairy,217.5,435,465
+115,fruits,202.5,262.5,337.5
+115,grains,817.5,825,1275
+115,protein,750,787.5,975
+115,vegetable,240,337.5,487.5
+115,Fats Oils Salad dressings,18,24,33
+116,dairy,217.5,435,465
+116,fruits,202.5,262.5,337.5
+116,grains,817.5,825,1275
+116,protein,750,787.5,975
+116,vegetable,240,337.5,487.5
+116,Fats Oils Salad dressings,18,24,33
+117,dairy,217.5,435,465
+117,fruits,202.5,262.5,337.5
+117,grains,817.5,825,1275
+117,protein,750,787.5,975
+117,vegetable,240,337.5,487.5
+117,Fats Oils Salad dressings,18,24,33
+118,dairy,217.5,435,465
+118,fruits,202.5,262.5,337.5
+118,grains,817.5,825,1275
+118,protein,750,787.5,975
+118,vegetable,240,337.5,487.5
+118,Fats Oils Salad dressings,18,24,33
+119,dairy,217.5,435,465
+119,fruits,202.5,262.5,337.5
+119,grains,817.5,825,1275
+119,protein,750,787.5,975
+119,vegetable,240,337.5,487.5
+119,Fats Oils Salad dressings,18,24,33
+120,dairy,217.5,435,465
+120,fruits,202.5,262.5,337.5
+120,grains,817.5,825,1275
+120,protein,750,787.5,975
+120,vegetable,240,337.5,487.5
+120,Fats Oils Salad dressings,18,24,33

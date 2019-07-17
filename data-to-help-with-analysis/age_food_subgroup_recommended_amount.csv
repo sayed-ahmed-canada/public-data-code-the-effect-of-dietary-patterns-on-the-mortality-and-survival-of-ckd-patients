@@ -1,0 +1,1381 @@
+age,subgroup,average_taken,recommended_low,recommended_high
+1,dark green vegetables,37.5,75,150
+1,legumes beans and peas,60,60,90
+1,meat poultry and eggs,2400,1500,2850
+1,nuts seeds and soy products,300,300,450
+1,other vegetables,172.5,225,375
+1,red and orange vegetables,217.5,375,450
+1,seafood,150,450,900
+1,starchy vegetables,232.5,300,525
+1,seafood,150,450,900
+1,seafood,150,450,900
+2,dark green vegetables,37.5,75,150
+2,legumes beans and peas,60,60,90
+2,meat poultry and eggs,2400,1500,2850
+2,nuts seeds and soy products,300,300,450
+2,other vegetables,172.5,225,375
+2,red and orange vegetables,217.5,375,450
+2,seafood,150,450,900
+2,starchy vegetables,232.5,300,525
+2,seafood,150,450,900
+2,seafood,150,450,900
+3,dark green vegetables,37.5,75,150
+3,legumes beans and peas,60,60,90
+3,meat poultry and eggs,2400,1500,2850
+3,nuts seeds and soy products,300,300,450
+3,other vegetables,172.5,225,375
+3,red and orange vegetables,217.5,375,450
+3,seafood,150,450,900
+3,starchy vegetables,232.5,300,525
+3,seafood,150,450,900
+3,seafood,150,450,900
+4,dark green vegetables,60,150,225
+4,legumes beans and peas,60,75,225
+4,meat poultry and eggs,3300,2100,3750
+4,nuts seeds and soy products,450,300,675
+4,other vegetables,202.5,375,600
+4,red and orange vegetables,270,450,825
+4,seafood,150,600,1200
+4,starchy vegetables,330,525,750
+4,seafood,150,600,1200
+4,seafood,150,600,1200
+5,dark green vegetables,60,150,225
+5,legumes beans and peas,60,75,225
+5,meat poultry and eggs,3300,2100,3750
+5,nuts seeds and soy products,450,300,675
+5,other vegetables,202.5,375,600
+5,red and orange vegetables,270,450,825
+5,seafood,150,600,1200
+5,starchy vegetables,330,525,750
+5,seafood,150,600,1200
+5,seafood,150,600,1200
+6,dark green vegetables,60,150,225
+6,legumes beans and peas,60,75,225
+6,meat poultry and eggs,3300,2100,3750
+6,nuts seeds and soy products,450,300,675
+6,other vegetables,202.5,375,600
+6,red and orange vegetables,270,450,825
+6,seafood,150,600,1200
+6,starchy vegetables,330,525,750
+6,seafood,150,600,1200
+6,seafood,150,600,1200
+7,dark green vegetables,60,150,225
+7,legumes beans and peas,60,75,225
+7,meat poultry and eggs,3300,2100,3750
+7,nuts seeds and soy products,450,300,675
+7,other vegetables,202.5,375,600
+7,red and orange vegetables,270,450,825
+7,seafood,150,600,1200
+7,starchy vegetables,330,525,750
+7,seafood,150,600,1200
+7,seafood,150,600,1200
+8,dark green vegetables,60,150,225
+8,legumes beans and peas,60,75,225
+8,meat poultry and eggs,3300,2100,3750
+8,nuts seeds and soy products,450,300,675
+8,other vegetables,202.5,375,600
+8,red and orange vegetables,270,450,825
+8,seafood,150,600,1200
+8,starchy vegetables,330,525,750
+8,seafood,150,600,1200
+8,seafood,150,600,1200
+9,dark green vegetables,60,187.5,337.5
+9,legumes beans and peas,75,112.5,337.5
+9,meat poultry and eggs,4050,3225,4500
+9,nuts seeds and soy products,525,525,750
+9,other vegetables,270,450,787.5
+9,red and orange vegetables,307.5,525,975
+9,seafood,225,1050,1425
+9,starchy vegetables,405,562.5,975
+9,seafood,225,1050,1425
+9,seafood,225,1050,1425
+10,dark green vegetables,60,187.5,337.5
+10,legumes beans and peas,75,112.5,337.5
+10,meat poultry and eggs,4050,3225,4500
+10,nuts seeds and soy products,525,525,750
+10,other vegetables,270,450,787.5
+10,red and orange vegetables,307.5,525,975
+10,seafood,225,1050,1425
+10,starchy vegetables,405,562.5,975
+10,seafood,225,1050,1425
+10,seafood,225,1050,1425
+11,dark green vegetables,60,187.5,337.5
+11,legumes beans and peas,75,112.5,337.5
+11,meat poultry and eggs,4050,3225,4500
+11,nuts seeds and soy products,525,525,750
+11,other vegetables,270,450,787.5
+11,red and orange vegetables,307.5,525,975
+11,seafood,225,1050,1425
+11,starchy vegetables,405,562.5,975
+11,seafood,225,1050,1425
+11,seafood,225,1050,1425
+12,dark green vegetables,60,187.5,337.5
+12,legumes beans and peas,75,112.5,337.5
+12,meat poultry and eggs,4050,3225,4500
+12,nuts seeds and soy products,525,525,750
+12,other vegetables,270,450,787.5
+12,red and orange vegetables,307.5,525,975
+12,seafood,225,1050,1425
+12,starchy vegetables,405,562.5,975
+12,seafood,225,1050,1425
+12,seafood,225,1050,1425
+13,dark green vegetables,60,187.5,337.5
+13,legumes beans and peas,75,112.5,337.5
+13,meat poultry and eggs,4050,3225,4500
+13,nuts seeds and soy products,525,525,750
+13,other vegetables,270,450,787.5
+13,red and orange vegetables,307.5,525,975
+13,seafood,225,1050,1425
+13,starchy vegetables,405,562.5,975
+13,seafood,225,1050,1425
+13,seafood,225,1050,1425
+14,dark green vegetables,67.5,225,337.5
+14,legumes beans and peas,75,225,375
+14,meat poultry and eggs,4800,3750,4875
+14,nuts seeds and soy products,450,675,825
+14,other vegetables,367.5,600,900
+14,red and orange vegetables,360,825,1012.5
+14,seafood,225,1200,1500
+14,starchy vegetables,427.5,750,1050
+14,seafood,225,1200,1500
+14,seafood,225,1200,1500
+15,dark green vegetables,67.5,225,337.5
+15,legumes beans and peas,75,225,375
+15,meat poultry and eggs,4800,3750,4875
+15,nuts seeds and soy products,450,675,825
+15,other vegetables,367.5,600,900
+15,red and orange vegetables,360,825,1012.5
+15,seafood,225,1200,1500
+15,starchy vegetables,427.5,750,1050
+15,seafood,225,1200,1500
+15,seafood,225,1200,1500
+16,dark green vegetables,67.5,225,337.5
+16,legumes beans and peas,75,225,375
+16,meat poultry and eggs,4800,3750,4875
+16,nuts seeds and soy products,450,675,825
+16,other vegetables,367.5,600,900
+16,red and orange vegetables,360,825,1012.5
+16,seafood,225,1200,1500
+16,starchy vegetables,427.5,750,1050
+16,seafood,225,1200,1500
+16,seafood,225,1200,1500
+17,dark green vegetables,67.5,225,337.5
+17,legumes beans and peas,75,225,375
+17,meat poultry and eggs,4800,3750,4875
+17,nuts seeds and soy products,450,675,825
+17,other vegetables,367.5,600,900
+17,red and orange vegetables,360,825,1012.5
+17,seafood,225,1200,1500
+17,starchy vegetables,427.5,750,1050
+17,seafood,225,1200,1500
+17,seafood,225,1200,1500
+18,dark green vegetables,67.5,225,337.5
+18,legumes beans and peas,75,225,375
+18,meat poultry and eggs,4800,3750,4875
+18,nuts seeds and soy products,450,675,825
+18,other vegetables,367.5,600,900
+18,red and orange vegetables,360,825,1012.5
+18,seafood,225,1200,1500
+18,starchy vegetables,427.5,750,1050
+18,seafood,225,1200,1500
+18,seafood,225,1200,1500
+19,dark green vegetables,97.5,262.5,337.5
+19,legumes beans and peas,112.5,262.5,375
+19,meat poultry and eggs,5400,4125,4875
+19,nuts seeds and soy products,525,675,825
+19,other vegetables,547.5,675,900
+19,red and orange vegetables,435,862.5,1012.5
+19,seafood,2475,900,1500
+19,starchy vegetables,450,825,1050
+19,seafood,2475,900,1500
+19,seafood,2475,900,1500
+20,dark green vegetables,97.5,262.5,337.5
+20,legumes beans and peas,112.5,262.5,375
+20,meat poultry and eggs,5400,4125,4875
+20,nuts seeds and soy products,525,675,825
+20,other vegetables,547.5,675,900
+20,red and orange vegetables,435,862.5,1012.5
+20,seafood,2475,900,1500
+20,starchy vegetables,450,825,1050
+20,seafood,2475,900,1500
+20,seafood,2475,900,1500
+21,dark green vegetables,97.5,262.5,337.5
+21,legumes beans and peas,112.5,262.5,375
+21,meat poultry and eggs,5400,4125,4875
+21,nuts seeds and soy products,525,675,825
+21,other vegetables,547.5,675,900
+21,red and orange vegetables,435,862.5,1012.5
+21,seafood,2475,900,1500
+21,starchy vegetables,450,825,1050
+21,seafood,2475,900,1500
+21,seafood,2475,900,1500
+22,dark green vegetables,97.5,262.5,337.5
+22,legumes beans and peas,112.5,262.5,375
+22,meat poultry and eggs,5400,4125,4875
+22,nuts seeds and soy products,525,675,825
+22,other vegetables,547.5,675,900
+22,red and orange vegetables,435,862.5,1012.5
+22,seafood,2475,900,1500
+22,starchy vegetables,450,825,1050
+22,seafood,2475,900,1500
+22,seafood,2475,900,1500
+23,dark green vegetables,97.5,262.5,337.5
+23,legumes beans and peas,112.5,262.5,375
+23,meat poultry and eggs,5400,4125,4875
+23,nuts seeds and soy products,525,675,825
+23,other vegetables,547.5,675,900
+23,red and orange vegetables,435,862.5,1012.5
+23,seafood,2475,900,1500
+23,starchy vegetables,450,825,1050
+23,seafood,2475,900,1500
+23,seafood,2475,900,1500
+24,dark green vegetables,97.5,262.5,337.5
+24,legumes beans and peas,112.5,262.5,375
+24,meat poultry and eggs,5400,4125,4875
+24,nuts seeds and soy products,525,675,825
+24,other vegetables,547.5,675,900
+24,red and orange vegetables,435,862.5,1012.5
+24,seafood,2475,900,1500
+24,starchy vegetables,450,825,1050
+24,seafood,2475,900,1500
+24,seafood,2475,900,1500
+25,dark green vegetables,97.5,262.5,337.5
+25,legumes beans and peas,112.5,262.5,375
+25,meat poultry and eggs,5400,4125,4875
+25,nuts seeds and soy products,525,675,825
+25,other vegetables,547.5,675,900
+25,red and orange vegetables,435,862.5,1012.5
+25,seafood,2475,900,1500
+25,starchy vegetables,450,825,1050
+25,seafood,2475,900,1500
+25,seafood,2475,900,1500
+26,dark green vegetables,97.5,262.5,337.5
+26,legumes beans and peas,112.5,262.5,375
+26,meat poultry and eggs,5400,4125,4875
+26,nuts seeds and soy products,525,675,825
+26,other vegetables,547.5,675,900
+26,red and orange vegetables,435,862.5,1012.5
+26,seafood,2475,900,1500
+26,starchy vegetables,450,825,1050
+26,seafood,2475,900,1500
+26,seafood,2475,900,1500
+27,dark green vegetables,97.5,262.5,337.5
+27,legumes beans and peas,112.5,262.5,375
+27,meat poultry and eggs,5400,4125,4875
+27,nuts seeds and soy products,525,675,825
+27,other vegetables,547.5,675,900
+27,red and orange vegetables,435,862.5,1012.5
+27,seafood,2475,900,1500
+27,starchy vegetables,450,825,1050
+27,seafood,2475,900,1500
+27,seafood,2475,900,1500
+28,dark green vegetables,97.5,262.5,337.5
+28,legumes beans and peas,112.5,262.5,375
+28,meat poultry and eggs,5400,4125,4875
+28,nuts seeds and soy products,525,675,825
+28,other vegetables,547.5,675,900
+28,red and orange vegetables,435,862.5,1012.5
+28,seafood,2475,900,1500
+28,starchy vegetables,450,825,1050
+28,seafood,2475,900,1500
+28,seafood,2475,900,1500
+29,dark green vegetables,97.5,262.5,337.5
+29,legumes beans and peas,112.5,262.5,375
+29,meat poultry and eggs,5400,4125,4875
+29,nuts seeds and soy products,525,675,825
+29,other vegetables,547.5,675,900
+29,red and orange vegetables,435,862.5,1012.5
+29,seafood,2475,900,1500
+29,starchy vegetables,450,825,1050
+29,seafood,2475,900,1500
+29,seafood,2475,900,1500
+30,dark green vegetables,97.5,262.5,337.5
+30,legumes beans and peas,112.5,262.5,375
+30,meat poultry and eggs,5400,4125,4875
+30,nuts seeds and soy products,525,675,825
+30,other vegetables,547.5,675,900
+30,red and orange vegetables,435,862.5,1012.5
+30,seafood,2475,900,1500
+30,starchy vegetables,450,825,1050
+30,seafood,2475,900,1500
+30,seafood,2475,900,1500
+31,dark green vegetables,135,262.5,337.5
+31,legumes beans and peas,135,262.5,375
+31,meat poultry and eggs,5475,3975,4725
+31,nuts seeds and soy products,825,675,825
+31,other vegetables,615,675,900
+31,red and orange vegetables,442.5,862.5,1012.5
+31,seafood,2475,900,1500
+31,seafood,675,1275,1425
+31,starchy vegetables,495,825,1050
+31,seafood,2475,900,1500
+31,seafood,675,1275,1425
+31,seafood,675,1275,1425
+32,dark green vegetables,135,262.5,337.5
+32,legumes beans and peas,135,262.5,375
+32,meat poultry and eggs,5475,3975,4725
+32,nuts seeds and soy products,825,675,825
+32,other vegetables,615,675,900
+32,red and orange vegetables,442.5,862.5,1012.5
+32,seafood,2475,900,1500
+32,seafood,675,1275,1425
+32,starchy vegetables,495,825,1050
+32,seafood,2475,900,1500
+32,seafood,675,1275,1425
+32,seafood,675,1275,1425
+33,dark green vegetables,135,262.5,337.5
+33,legumes beans and peas,135,262.5,375
+33,meat poultry and eggs,5475,3975,4725
+33,nuts seeds and soy products,825,675,825
+33,other vegetables,615,675,900
+33,red and orange vegetables,442.5,862.5,1012.5
+33,seafood,2475,900,1500
+33,seafood,675,1275,1425
+33,starchy vegetables,495,825,1050
+33,seafood,2475,900,1500
+33,seafood,675,1275,1425
+33,seafood,675,1275,1425
+34,dark green vegetables,135,262.5,337.5
+34,legumes beans and peas,135,262.5,375
+34,meat poultry and eggs,5475,3975,4725
+34,nuts seeds and soy products,825,675,825
+34,other vegetables,615,675,900
+34,red and orange vegetables,442.5,862.5,1012.5
+34,seafood,2475,900,1500
+34,seafood,675,1275,1425
+34,starchy vegetables,495,825,1050
+34,seafood,2475,900,1500
+34,seafood,675,1275,1425
+34,seafood,675,1275,1425
+35,dark green vegetables,135,262.5,337.5
+35,legumes beans and peas,135,262.5,375
+35,meat poultry and eggs,5475,3975,4725
+35,nuts seeds and soy products,825,675,825
+35,other vegetables,615,675,900
+35,red and orange vegetables,442.5,862.5,1012.5
+35,seafood,2475,900,1500
+35,seafood,675,1275,1425
+35,starchy vegetables,495,825,1050
+35,seafood,2475,900,1500
+35,seafood,675,1275,1425
+35,seafood,675,1275,1425
+36,dark green vegetables,135,262.5,337.5
+36,legumes beans and peas,135,262.5,375
+36,meat poultry and eggs,5475,3975,4725
+36,nuts seeds and soy products,825,675,825
+36,other vegetables,615,675,900
+36,red and orange vegetables,442.5,862.5,1012.5
+36,seafood,2475,900,1500
+36,seafood,675,1275,1425
+36,starchy vegetables,495,825,1050
+36,seafood,2475,900,1500
+36,seafood,675,1275,1425
+36,seafood,675,1275,1425
+37,dark green vegetables,135,262.5,337.5
+37,legumes beans and peas,135,262.5,375
+37,meat poultry and eggs,5475,3975,4725
+37,nuts seeds and soy products,825,675,825
+37,other vegetables,615,675,900
+37,red and orange vegetables,442.5,862.5,1012.5
+37,seafood,2475,900,1500
+37,seafood,675,1275,1425
+37,starchy vegetables,495,825,1050
+37,seafood,2475,900,1500
+37,seafood,675,1275,1425
+37,seafood,675,1275,1425
+38,dark green vegetables,135,262.5,337.5
+38,legumes beans and peas,135,262.5,375
+38,meat poultry and eggs,5475,3975,4725
+38,nuts seeds and soy products,825,675,825
+38,other vegetables,615,675,900
+38,red and orange vegetables,442.5,862.5,1012.5
+38,seafood,2475,900,1500
+38,seafood,675,1275,1425
+38,starchy vegetables,495,825,1050
+38,seafood,2475,900,1500
+38,seafood,675,1275,1425
+38,seafood,675,1275,1425
+39,dark green vegetables,135,262.5,337.5
+39,legumes beans and peas,135,262.5,375
+39,meat poultry and eggs,5475,3975,4725
+39,nuts seeds and soy products,825,675,825
+39,other vegetables,615,675,900
+39,red and orange vegetables,442.5,862.5,1012.5
+39,seafood,2475,900,1500
+39,seafood,675,1275,1425
+39,starchy vegetables,495,825,1050
+39,seafood,2475,900,1500
+39,seafood,675,1275,1425
+39,seafood,675,1275,1425
+40,dark green vegetables,135,262.5,337.5
+40,legumes beans and peas,135,262.5,375
+40,meat poultry and eggs,5475,3975,4725
+40,nuts seeds and soy products,825,675,825
+40,other vegetables,615,675,900
+40,red and orange vegetables,442.5,862.5,1012.5
+40,seafood,2475,900,1500
+40,seafood,675,1275,1425
+40,starchy vegetables,495,825,1050
+40,seafood,2475,900,1500
+40,seafood,675,1275,1425
+40,seafood,675,1275,1425
+41,dark green vegetables,135,262.5,337.5
+41,legumes beans and peas,135,262.5,375
+41,meat poultry and eggs,5475,3975,4725
+41,nuts seeds and soy products,825,675,825
+41,other vegetables,615,675,900
+41,red and orange vegetables,442.5,862.5,1012.5
+41,seafood,2475,900,1500
+41,seafood,675,1275,1425
+41,starchy vegetables,495,825,1050
+41,seafood,2475,900,1500
+41,seafood,675,1275,1425
+41,seafood,675,1275,1425
+42,dark green vegetables,135,262.5,337.5
+42,legumes beans and peas,135,262.5,375
+42,meat poultry and eggs,5475,3975,4725
+42,nuts seeds and soy products,825,675,825
+42,other vegetables,615,675,900
+42,red and orange vegetables,442.5,862.5,1012.5
+42,seafood,2475,900,1500
+42,seafood,675,1275,1425
+42,starchy vegetables,495,825,1050
+42,seafood,2475,900,1500
+42,seafood,675,1275,1425
+42,seafood,675,1275,1425
+43,dark green vegetables,135,262.5,337.5
+43,legumes beans and peas,135,262.5,375
+43,meat poultry and eggs,5475,3975,4725
+43,nuts seeds and soy products,825,675,825
+43,other vegetables,615,675,900
+43,red and orange vegetables,442.5,862.5,1012.5
+43,seafood,2475,900,1500
+43,seafood,675,1275,1425
+43,starchy vegetables,495,825,1050
+43,seafood,2475,900,1500
+43,seafood,675,1275,1425
+43,seafood,675,1275,1425
+44,dark green vegetables,135,262.5,337.5
+44,legumes beans and peas,135,262.5,375
+44,meat poultry and eggs,5475,3975,4725
+44,nuts seeds and soy products,825,675,825
+44,other vegetables,615,675,900
+44,red and orange vegetables,442.5,862.5,1012.5
+44,seafood,2475,900,1500
+44,seafood,675,1275,1425
+44,starchy vegetables,495,825,1050
+44,seafood,2475,900,1500
+44,seafood,675,1275,1425
+44,seafood,675,1275,1425
+45,dark green vegetables,135,262.5,337.5
+45,legumes beans and peas,135,262.5,375
+45,meat poultry and eggs,5475,3975,4725
+45,nuts seeds and soy products,825,675,825
+45,other vegetables,615,675,900
+45,red and orange vegetables,442.5,862.5,1012.5
+45,seafood,2475,900,1500
+45,seafood,675,1275,1425
+45,starchy vegetables,495,825,1050
+45,seafood,2475,900,1500
+45,seafood,675,1275,1425
+45,seafood,675,1275,1425
+46,dark green vegetables,135,262.5,337.5
+46,legumes beans and peas,135,262.5,375
+46,meat poultry and eggs,5475,3975,4725
+46,nuts seeds and soy products,825,675,825
+46,other vegetables,615,675,900
+46,red and orange vegetables,442.5,862.5,1012.5
+46,seafood,2475,900,1500
+46,seafood,675,1275,1425
+46,starchy vegetables,495,825,1050
+46,seafood,2475,900,1500
+46,seafood,675,1275,1425
+46,seafood,675,1275,1425
+47,dark green vegetables,135,262.5,337.5
+47,legumes beans and peas,135,262.5,375
+47,meat poultry and eggs,5475,3975,4725
+47,nuts seeds and soy products,825,675,825
+47,other vegetables,615,675,900
+47,red and orange vegetables,442.5,862.5,1012.5
+47,seafood,2475,900,1500
+47,seafood,675,1275,1425
+47,starchy vegetables,495,825,1050
+47,seafood,2475,900,1500
+47,seafood,675,1275,1425
+47,seafood,675,1275,1425
+48,dark green vegetables,135,262.5,337.5
+48,legumes beans and peas,135,262.5,375
+48,meat poultry and eggs,5475,3975,4725
+48,nuts seeds and soy products,825,675,825
+48,other vegetables,615,675,900
+48,red and orange vegetables,442.5,862.5,1012.5
+48,seafood,2475,900,1500
+48,seafood,675,1275,1425
+48,starchy vegetables,495,825,1050
+48,seafood,2475,900,1500
+48,seafood,675,1275,1425
+48,seafood,675,1275,1425
+49,dark green vegetables,135,262.5,337.5
+49,legumes beans and peas,135,262.5,375
+49,meat poultry and eggs,5475,3975,4725
+49,nuts seeds and soy products,825,675,825
+49,other vegetables,615,675,900
+49,red and orange vegetables,442.5,862.5,1012.5
+49,seafood,2475,900,1500
+49,seafood,675,1275,1425
+49,starchy vegetables,495,825,1050
+49,seafood,2475,900,1500
+49,seafood,675,1275,1425
+49,seafood,675,1275,1425
+50,dark green vegetables,135,262.5,337.5
+50,legumes beans and peas,135,262.5,375
+50,meat poultry and eggs,5475,3975,4725
+50,nuts seeds and soy products,825,675,825
+50,other vegetables,615,675,900
+50,red and orange vegetables,442.5,862.5,1012.5
+50,seafood,2475,900,1500
+50,seafood,675,1275,1425
+50,starchy vegetables,495,825,1050
+50,seafood,2475,900,1500
+50,seafood,675,1275,1425
+50,seafood,675,1275,1425
+51,dark green vegetables,180,225,337.5
+51,legumes beans and peas,105,187.5,337.5
+51,meat poultry and eggs,4950,3750,4725
+51,nuts seeds and soy products,825,675,825
+51,other vegetables,697.5,562.5,787.5
+51,red and orange vegetables,435,712.5,975
+51,seafood,2475,900,1500
+51,seafood,675,1200,1425
+51,starchy vegetables,510,675,975
+51,seafood,2475,900,1500
+51,seafood,675,1200,1425
+51,seafood,675,1200,1425
+52,dark green vegetables,180,225,337.5
+52,legumes beans and peas,105,187.5,337.5
+52,meat poultry and eggs,4950,3750,4725
+52,nuts seeds and soy products,825,675,825
+52,other vegetables,697.5,562.5,787.5
+52,red and orange vegetables,435,712.5,975
+52,seafood,2475,900,1500
+52,seafood,675,1200,1425
+52,starchy vegetables,510,675,975
+52,seafood,2475,900,1500
+52,seafood,675,1200,1425
+52,seafood,675,1200,1425
+53,dark green vegetables,180,225,337.5
+53,legumes beans and peas,105,187.5,337.5
+53,meat poultry and eggs,4950,3750,4725
+53,nuts seeds and soy products,825,675,825
+53,other vegetables,697.5,562.5,787.5
+53,red and orange vegetables,435,712.5,975
+53,seafood,2475,900,1500
+53,seafood,675,1200,1425
+53,starchy vegetables,510,675,975
+53,seafood,2475,900,1500
+53,seafood,675,1200,1425
+53,seafood,675,1200,1425
+54,dark green vegetables,180,225,337.5
+54,legumes beans and peas,105,187.5,337.5
+54,meat poultry and eggs,4950,3750,4725
+54,nuts seeds and soy products,825,675,825
+54,other vegetables,697.5,562.5,787.5
+54,red and orange vegetables,435,712.5,975
+54,seafood,2475,900,1500
+54,seafood,675,1200,1425
+54,starchy vegetables,510,675,975
+54,seafood,2475,900,1500
+54,seafood,675,1200,1425
+54,seafood,675,1200,1425
+55,dark green vegetables,180,225,337.5
+55,legumes beans and peas,105,187.5,337.5
+55,meat poultry and eggs,4950,3750,4725
+55,nuts seeds and soy products,825,675,825
+55,other vegetables,697.5,562.5,787.5
+55,red and orange vegetables,435,712.5,975
+55,seafood,2475,900,1500
+55,seafood,675,1200,1425
+55,starchy vegetables,510,675,975
+55,seafood,2475,900,1500
+55,seafood,675,1200,1425
+55,seafood,675,1200,1425
+56,dark green vegetables,180,225,337.5
+56,legumes beans and peas,105,187.5,337.5
+56,meat poultry and eggs,4950,3750,4725
+56,nuts seeds and soy products,825,675,825
+56,other vegetables,697.5,562.5,787.5
+56,red and orange vegetables,435,712.5,975
+56,seafood,2475,900,1500
+56,seafood,675,1200,1425
+56,starchy vegetables,510,675,975
+56,seafood,2475,900,1500
+56,seafood,675,1200,1425
+56,seafood,675,1200,1425
+57,dark green vegetables,180,225,337.5
+57,legumes beans and peas,105,187.5,337.5
+57,meat poultry and eggs,4950,3750,4725
+57,nuts seeds and soy products,825,675,825
+57,other vegetables,697.5,562.5,787.5
+57,red and orange vegetables,435,712.5,975
+57,seafood,2475,900,1500
+57,seafood,675,1200,1425
+57,starchy vegetables,510,675,975
+57,seafood,2475,900,1500
+57,seafood,675,1200,1425
+57,seafood,675,1200,1425
+58,dark green vegetables,180,225,337.5
+58,legumes beans and peas,105,187.5,337.5
+58,meat poultry and eggs,4950,3750,4725
+58,nuts seeds and soy products,825,675,825
+58,other vegetables,697.5,562.5,787.5
+58,red and orange vegetables,435,712.5,975
+58,seafood,2475,900,1500
+58,seafood,675,1200,1425
+58,starchy vegetables,510,675,975
+58,seafood,2475,900,1500
+58,seafood,675,1200,1425
+58,seafood,675,1200,1425
+59,dark green vegetables,180,225,337.5
+59,legumes beans and peas,105,187.5,337.5
+59,meat poultry and eggs,4950,3750,4725
+59,nuts seeds and soy products,825,675,825
+59,other vegetables,697.5,562.5,787.5
+59,red and orange vegetables,435,712.5,975
+59,seafood,2475,900,1500
+59,seafood,675,1200,1425
+59,starchy vegetables,510,675,975
+59,seafood,2475,900,1500
+59,seafood,675,1200,1425
+59,seafood,675,1200,1425
+60,dark green vegetables,180,225,337.5
+60,legumes beans and peas,105,187.5,337.5
+60,meat poultry and eggs,4950,3750,4725
+60,nuts seeds and soy products,825,675,825
+60,other vegetables,697.5,562.5,787.5
+60,red and orange vegetables,435,712.5,975
+60,seafood,2475,900,1500
+60,seafood,675,1200,1425
+60,starchy vegetables,510,675,975
+60,seafood,2475,900,1500
+60,seafood,675,1200,1425
+60,seafood,675,1200,1425
+61,dark green vegetables,180,225,337.5
+61,legumes beans and peas,105,187.5,337.5
+61,meat poultry and eggs,4950,3750,4725
+61,nuts seeds and soy products,825,675,825
+61,other vegetables,697.5,562.5,787.5
+61,red and orange vegetables,435,712.5,975
+61,seafood,2475,900,1500
+61,seafood,675,1200,1425
+61,starchy vegetables,510,675,975
+61,seafood,2475,900,1500
+61,seafood,675,1200,1425
+61,seafood,675,1200,1425
+62,dark green vegetables,180,225,337.5
+62,legumes beans and peas,105,187.5,337.5
+62,meat poultry and eggs,4950,3750,4725
+62,nuts seeds and soy products,825,675,825
+62,other vegetables,697.5,562.5,787.5
+62,red and orange vegetables,435,712.5,975
+62,seafood,2475,900,1500
+62,seafood,675,1200,1425
+62,starchy vegetables,510,675,975
+62,seafood,2475,900,1500
+62,seafood,675,1200,1425
+62,seafood,675,1200,1425
+63,dark green vegetables,180,225,337.5
+63,legumes beans and peas,105,187.5,337.5
+63,meat poultry and eggs,4950,3750,4725
+63,nuts seeds and soy products,825,675,825
+63,other vegetables,697.5,562.5,787.5
+63,red and orange vegetables,435,712.5,975
+63,seafood,2475,900,1500
+63,seafood,675,1200,1425
+63,starchy vegetables,510,675,975
+63,seafood,2475,900,1500
+63,seafood,675,1200,1425
+63,seafood,675,1200,1425
+64,dark green vegetables,180,225,337.5
+64,legumes beans and peas,105,187.5,337.5
+64,meat poultry and eggs,4950,3750,4725
+64,nuts seeds and soy products,825,675,825
+64,other vegetables,697.5,562.5,787.5
+64,red and orange vegetables,435,712.5,975
+64,seafood,2475,900,1500
+64,seafood,675,1200,1425
+64,starchy vegetables,510,675,975
+64,seafood,2475,900,1500
+64,seafood,675,1200,1425
+64,seafood,675,1200,1425
+65,dark green vegetables,180,225,337.5
+65,legumes beans and peas,105,187.5,337.5
+65,meat poultry and eggs,4950,3750,4725
+65,nuts seeds and soy products,825,675,825
+65,other vegetables,697.5,562.5,787.5
+65,red and orange vegetables,435,712.5,975
+65,seafood,2475,900,1500
+65,seafood,675,1200,1425
+65,starchy vegetables,510,675,975
+65,seafood,2475,900,1500
+65,seafood,675,1200,1425
+65,seafood,675,1200,1425
+66,dark green vegetables,180,225,337.5
+66,legumes beans and peas,105,187.5,337.5
+66,meat poultry and eggs,4950,3750,4725
+66,nuts seeds and soy products,825,675,825
+66,other vegetables,697.5,562.5,787.5
+66,red and orange vegetables,435,712.5,975
+66,seafood,2475,900,1500
+66,seafood,675,1200,1425
+66,starchy vegetables,510,675,975
+66,seafood,2475,900,1500
+66,seafood,675,1200,1425
+66,seafood,675,1200,1425
+67,dark green vegetables,180,225,337.5
+67,legumes beans and peas,105,187.5,337.5
+67,meat poultry and eggs,4950,3750,4725
+67,nuts seeds and soy products,825,675,825
+67,other vegetables,697.5,562.5,787.5
+67,red and orange vegetables,435,712.5,975
+67,seafood,2475,900,1500
+67,seafood,675,1200,1425
+67,starchy vegetables,510,675,975
+67,seafood,2475,900,1500
+67,seafood,675,1200,1425
+67,seafood,675,1200,1425
+68,dark green vegetables,180,225,337.5
+68,legumes beans and peas,105,187.5,337.5
+68,meat poultry and eggs,4950,3750,4725
+68,nuts seeds and soy products,825,675,825
+68,other vegetables,697.5,562.5,787.5
+68,red and orange vegetables,435,712.5,975
+68,seafood,2475,900,1500
+68,seafood,675,1200,1425
+68,starchy vegetables,510,675,975
+68,seafood,2475,900,1500
+68,seafood,675,1200,1425
+68,seafood,675,1200,1425
+69,dark green vegetables,180,225,337.5
+69,legumes beans and peas,105,187.5,337.5
+69,meat poultry and eggs,4950,3750,4725
+69,nuts seeds and soy products,825,675,825
+69,other vegetables,697.5,562.5,787.5
+69,red and orange vegetables,435,712.5,975
+69,seafood,2475,900,1500
+69,seafood,675,1200,1425
+69,starchy vegetables,510,675,975
+69,seafood,2475,900,1500
+69,seafood,675,1200,1425
+69,seafood,675,1200,1425
+70,dark green vegetables,180,225,337.5
+70,legumes beans and peas,105,187.5,337.5
+70,meat poultry and eggs,4950,3750,4725
+70,nuts seeds and soy products,825,675,825
+70,other vegetables,697.5,562.5,787.5
+70,red and orange vegetables,435,712.5,975
+70,seafood,2475,900,1500
+70,seafood,675,1200,1425
+70,starchy vegetables,510,675,975
+70,seafood,2475,900,1500
+70,seafood,675,1200,1425
+70,seafood,675,1200,1425
+71,dark green vegetables,127.5,225,337.5
+71,legumes beans and peas,97.5,187.5,337.5
+71,meat poultry and eggs,4050,3750,4725
+71,nuts seeds and soy products,825,675,825
+71,other vegetables,562.5,562.5,787.5
+71,red and orange vegetables,405,712.5,975
+71,seafood,2475,900,1500
+71,seafood,600,1200,1425
+71,starchy vegetables,502.5,675,975
+71,seafood,2475,900,1500
+71,seafood,600,1200,1425
+71,seafood,600,1200,1425
+72,dark green vegetables,127.5,225,337.5
+72,legumes beans and peas,97.5,187.5,337.5
+72,meat poultry and eggs,4050,3750,4725
+72,nuts seeds and soy products,825,675,825
+72,other vegetables,562.5,562.5,787.5
+72,red and orange vegetables,405,712.5,975
+72,seafood,2475,900,1500
+72,seafood,600,1200,1425
+72,starchy vegetables,502.5,675,975
+72,seafood,2475,900,1500
+72,seafood,600,1200,1425
+72,seafood,600,1200,1425
+73,dark green vegetables,127.5,225,337.5
+73,legumes beans and peas,97.5,187.5,337.5
+73,meat poultry and eggs,4050,3750,4725
+73,nuts seeds and soy products,825,675,825
+73,other vegetables,562.5,562.5,787.5
+73,red and orange vegetables,405,712.5,975
+73,seafood,2475,900,1500
+73,seafood,600,1200,1425
+73,starchy vegetables,502.5,675,975
+73,seafood,2475,900,1500
+73,seafood,600,1200,1425
+73,seafood,600,1200,1425
+74,dark green vegetables,127.5,225,337.5
+74,legumes beans and peas,97.5,187.5,337.5
+74,meat poultry and eggs,4050,3750,4725
+74,nuts seeds and soy products,825,675,825
+74,other vegetables,562.5,562.5,787.5
+74,red and orange vegetables,405,712.5,975
+74,seafood,2475,900,1500
+74,seafood,600,1200,1425
+74,starchy vegetables,502.5,675,975
+74,seafood,2475,900,1500
+74,seafood,600,1200,1425
+74,seafood,600,1200,1425
+75,dark green vegetables,127.5,225,337.5
+75,legumes beans and peas,97.5,187.5,337.5
+75,meat poultry and eggs,4050,3750,4725
+75,nuts seeds and soy products,825,675,825
+75,other vegetables,562.5,562.5,787.5
+75,red and orange vegetables,405,712.5,975
+75,seafood,2475,900,1500
+75,seafood,600,1200,1425
+75,starchy vegetables,502.5,675,975
+75,seafood,2475,900,1500
+75,seafood,600,1200,1425
+75,seafood,600,1200,1425
+76,dark green vegetables,127.5,225,337.5
+76,legumes beans and peas,97.5,187.5,337.5
+76,meat poultry and eggs,4050,3750,4725
+76,nuts seeds and soy products,825,675,825
+76,other vegetables,562.5,562.5,787.5
+76,red and orange vegetables,405,712.5,975
+76,seafood,2475,900,1500
+76,seafood,600,1200,1425
+76,starchy vegetables,502.5,675,975
+76,seafood,2475,900,1500
+76,seafood,600,1200,1425
+76,seafood,600,1200,1425
+77,dark green vegetables,127.5,225,337.5
+77,legumes beans and peas,97.5,187.5,337.5
+77,meat poultry and eggs,4050,3750,4725
+77,nuts seeds and soy products,825,675,825
+77,other vegetables,562.5,562.5,787.5
+77,red and orange vegetables,405,712.5,975
+77,seafood,2475,900,1500
+77,seafood,600,1200,1425
+77,starchy vegetables,502.5,675,975
+77,seafood,2475,900,1500
+77,seafood,600,1200,1425
+77,seafood,600,1200,1425
+78,dark green vegetables,127.5,225,337.5
+78,legumes beans and peas,97.5,187.5,337.5
+78,meat poultry and eggs,4050,3750,4725
+78,nuts seeds and soy products,825,675,825
+78,other vegetables,562.5,562.5,787.5
+78,red and orange vegetables,405,712.5,975
+78,seafood,2475,900,1500
+78,seafood,600,1200,1425
+78,starchy vegetables,502.5,675,975
+78,seafood,2475,900,1500
+78,seafood,600,1200,1425
+78,seafood,600,1200,1425
+79,dark green vegetables,127.5,225,337.5
+79,legumes beans and peas,97.5,187.5,337.5
+79,meat poultry and eggs,4050,3750,4725
+79,nuts seeds and soy products,825,675,825
+79,other vegetables,562.5,562.5,787.5
+79,red and orange vegetables,405,712.5,975
+79,seafood,2475,900,1500
+79,seafood,600,1200,1425
+79,starchy vegetables,502.5,675,975
+79,seafood,2475,900,1500
+79,seafood,600,1200,1425
+79,seafood,600,1200,1425
+80,dark green vegetables,127.5,225,337.5
+80,legumes beans and peas,97.5,187.5,337.5
+80,meat poultry and eggs,4050,3750,4725
+80,nuts seeds and soy products,825,675,825
+80,other vegetables,562.5,562.5,787.5
+80,red and orange vegetables,405,712.5,975
+80,seafood,2475,900,1500
+80,seafood,600,1200,1425
+80,starchy vegetables,502.5,675,975
+80,seafood,2475,900,1500
+80,seafood,600,1200,1425
+80,seafood,600,1200,1425
+81,dark green vegetables,127.5,225,337.5
+81,legumes beans and peas,97.5,187.5,337.5
+81,meat poultry and eggs,4050,3750,4725
+81,nuts seeds and soy products,825,675,825
+81,other vegetables,562.5,562.5,787.5
+81,red and orange vegetables,405,712.5,975
+81,seafood,2475,900,1500
+81,seafood,600,1200,1425
+81,starchy vegetables,502.5,675,975
+81,seafood,2475,900,1500
+81,seafood,600,1200,1425
+81,seafood,600,1200,1425
+82,dark green vegetables,127.5,225,337.5
+82,legumes beans and peas,97.5,187.5,337.5
+82,meat poultry and eggs,4050,3750,4725
+82,nuts seeds and soy products,825,675,825
+82,other vegetables,562.5,562.5,787.5
+82,red and orange vegetables,405,712.5,975
+82,seafood,2475,900,1500
+82,seafood,600,1200,1425
+82,starchy vegetables,502.5,675,975
+82,seafood,2475,900,1500
+82,seafood,600,1200,1425
+82,seafood,600,1200,1425
+83,dark green vegetables,127.5,225,337.5
+83,legumes beans and peas,97.5,187.5,337.5
+83,meat poultry and eggs,4050,3750,4725
+83,nuts seeds and soy products,825,675,825
+83,other vegetables,562.5,562.5,787.5
+83,red and orange vegetables,405,712.5,975
+83,seafood,2475,900,1500
+83,seafood,600,1200,1425
+83,starchy vegetables,502.5,675,975
+83,seafood,2475,900,1500
+83,seafood,600,1200,1425
+83,seafood,600,1200,1425
+84,dark green vegetables,127.5,225,337.5
+84,legumes beans and peas,97.5,187.5,337.5
+84,meat poultry and eggs,4050,3750,4725
+84,nuts seeds and soy products,825,675,825
+84,other vegetables,562.5,562.5,787.5
+84,red and orange vegetables,405,712.5,975
+84,seafood,2475,900,1500
+84,seafood,600,1200,1425
+84,starchy vegetables,502.5,675,975
+84,seafood,2475,900,1500
+84,seafood,600,1200,1425
+84,seafood,600,1200,1425
+85,dark green vegetables,127.5,225,337.5
+85,legumes beans and peas,97.5,187.5,337.5
+85,meat poultry and eggs,4050,3750,4725
+85,nuts seeds and soy products,825,675,825
+85,other vegetables,562.5,562.5,787.5
+85,red and orange vegetables,405,712.5,975
+85,seafood,2475,900,1500
+85,seafood,600,1200,1425
+85,starchy vegetables,502.5,675,975
+85,seafood,2475,900,1500
+85,seafood,600,1200,1425
+85,seafood,600,1200,1425
+86,dark green vegetables,127.5,225,337.5
+86,legumes beans and peas,97.5,187.5,337.5
+86,meat poultry and eggs,4050,3750,4725
+86,nuts seeds and soy products,825,675,825
+86,other vegetables,562.5,562.5,787.5
+86,red and orange vegetables,405,712.5,975
+86,seafood,2475,900,1500
+86,seafood,600,1200,1425
+86,starchy vegetables,502.5,675,975
+86,seafood,2475,900,1500
+86,seafood,600,1200,1425
+86,seafood,600,1200,1425
+87,dark green vegetables,127.5,225,337.5
+87,legumes beans and peas,97.5,187.5,337.5
+87,meat poultry and eggs,4050,3750,4725
+87,nuts seeds and soy products,825,675,825
+87,other vegetables,562.5,562.5,787.5
+87,red and orange vegetables,405,712.5,975
+87,seafood,2475,900,1500
+87,seafood,600,1200,1425
+87,starchy vegetables,502.5,675,975
+87,seafood,2475,900,1500
+87,seafood,600,1200,1425
+87,seafood,600,1200,1425
+88,dark green vegetables,127.5,225,337.5
+88,legumes beans and peas,97.5,187.5,337.5
+88,meat poultry and eggs,4050,3750,4725
+88,nuts seeds and soy products,825,675,825
+88,other vegetables,562.5,562.5,787.5
+88,red and orange vegetables,405,712.5,975
+88,seafood,2475,900,1500
+88,seafood,600,1200,1425
+88,starchy vegetables,502.5,675,975
+88,seafood,2475,900,1500
+88,seafood,600,1200,1425
+88,seafood,600,1200,1425
+89,dark green vegetables,127.5,225,337.5
+89,legumes beans and peas,97.5,187.5,337.5
+89,meat poultry and eggs,4050,3750,4725
+89,nuts seeds and soy products,825,675,825
+89,other vegetables,562.5,562.5,787.5
+89,red and orange vegetables,405,712.5,975
+89,seafood,2475,900,1500
+89,seafood,600,1200,1425
+89,starchy vegetables,502.5,675,975
+89,seafood,2475,900,1500
+89,seafood,600,1200,1425
+89,seafood,600,1200,1425
+90,dark green vegetables,127.5,225,337.5
+90,legumes beans and peas,97.5,187.5,337.5
+90,meat poultry and eggs,4050,3750,4725
+90,nuts seeds and soy products,825,675,825
+90,other vegetables,562.5,562.5,787.5
+90,red and orange vegetables,405,712.5,975
+90,seafood,2475,900,1500
+90,seafood,600,1200,1425
+90,starchy vegetables,502.5,675,975
+90,seafood,2475,900,1500
+90,seafood,600,1200,1425
+90,seafood,600,1200,1425
+91,dark green vegetables,127.5,225,337.5
+91,legumes beans and peas,97.5,187.5,337.5
+91,meat poultry and eggs,4050,3750,4725
+91,nuts seeds and soy products,825,675,825
+91,other vegetables,562.5,562.5,787.5
+91,red and orange vegetables,405,712.5,975
+91,seafood,2475,900,1500
+91,seafood,600,1200,1425
+91,starchy vegetables,502.5,675,975
+91,seafood,2475,900,1500
+91,seafood,600,1200,1425
+91,seafood,600,1200,1425
+92,dark green vegetables,127.5,225,337.5
+92,legumes beans and peas,97.5,187.5,337.5
+92,meat poultry and eggs,4050,3750,4725
+92,nuts seeds and soy products,825,675,825
+92,other vegetables,562.5,562.5,787.5
+92,red and orange vegetables,405,712.5,975
+92,seafood,2475,900,1500
+92,seafood,600,1200,1425
+92,starchy vegetables,502.5,675,975
+92,seafood,2475,900,1500
+92,seafood,600,1200,1425
+92,seafood,600,1200,1425
+93,dark green vegetables,127.5,225,337.5
+93,legumes beans and peas,97.5,187.5,337.5
+93,meat poultry and eggs,4050,3750,4725
+93,nuts seeds and soy products,825,675,825
+93,other vegetables,562.5,562.5,787.5
+93,red and orange vegetables,405,712.5,975
+93,seafood,2475,900,1500
+93,seafood,600,1200,1425
+93,starchy vegetables,502.5,675,975
+93,seafood,2475,900,1500
+93,seafood,600,1200,1425
+93,seafood,600,1200,1425
+94,dark green vegetables,127.5,225,337.5
+94,legumes beans and peas,97.5,187.5,337.5
+94,meat poultry and eggs,4050,3750,4725
+94,nuts seeds and soy products,825,675,825
+94,other vegetables,562.5,562.5,787.5
+94,red and orange vegetables,405,712.5,975
+94,seafood,2475,900,1500
+94,seafood,600,1200,1425
+94,starchy vegetables,502.5,675,975
+94,seafood,2475,900,1500
+94,seafood,600,1200,1425
+94,seafood,600,1200,1425
+95,dark green vegetables,127.5,225,337.5
+95,legumes beans and peas,97.5,187.5,337.5
+95,meat poultry and eggs,4050,3750,4725
+95,nuts seeds and soy products,825,675,825
+95,other vegetables,562.5,562.5,787.5
+95,red and orange vegetables,405,712.5,975
+95,seafood,2475,900,1500
+95,seafood,600,1200,1425
+95,starchy vegetables,502.5,675,975
+95,seafood,2475,900,1500
+95,seafood,600,1200,1425
+95,seafood,600,1200,1425
+96,dark green vegetables,127.5,225,337.5
+96,legumes beans and peas,97.5,187.5,337.5
+96,meat poultry and eggs,4050,3750,4725
+96,nuts seeds and soy products,825,675,825
+96,other vegetables,562.5,562.5,787.5
+96,red and orange vegetables,405,712.5,975
+96,seafood,2475,900,1500
+96,seafood,600,1200,1425
+96,starchy vegetables,502.5,675,975
+96,seafood,2475,900,1500
+96,seafood,600,1200,1425
+96,seafood,600,1200,1425
+97,dark green vegetables,127.5,225,337.5
+97,legumes beans and peas,97.5,187.5,337.5
+97,meat poultry and eggs,4050,3750,4725
+97,nuts seeds and soy products,825,675,825
+97,other vegetables,562.5,562.5,787.5
+97,red and orange vegetables,405,712.5,975
+97,seafood,2475,900,1500
+97,seafood,600,1200,1425
+97,starchy vegetables,502.5,675,975
+97,seafood,2475,900,1500
+97,seafood,600,1200,1425
+97,seafood,600,1200,1425
+98,dark green vegetables,127.5,225,337.5
+98,legumes beans and peas,97.5,187.5,337.5
+98,meat poultry and eggs,4050,3750,4725
+98,nuts seeds and soy products,825,675,825
+98,other vegetables,562.5,562.5,787.5
+98,red and orange vegetables,405,712.5,975
+98,seafood,2475,900,1500
+98,seafood,600,1200,1425
+98,starchy vegetables,502.5,675,975
+98,seafood,2475,900,1500
+98,seafood,600,1200,1425
+98,seafood,600,1200,1425
+99,dark green vegetables,127.5,225,337.5
+99,legumes beans and peas,97.5,187.5,337.5
+99,meat poultry and eggs,4050,3750,4725
+99,nuts seeds and soy products,825,675,825
+99,other vegetables,562.5,562.5,787.5
+99,red and orange vegetables,405,712.5,975
+99,seafood,2475,900,1500
+99,seafood,600,1200,1425
+99,starchy vegetables,502.5,675,975
+99,seafood,2475,900,1500
+99,seafood,600,1200,1425
+99,seafood,600,1200,1425
+100,dark green vegetables,127.5,225,337.5
+100,legumes beans and peas,97.5,187.5,337.5
+100,meat poultry and eggs,4050,3750,4725
+100,nuts seeds and soy products,825,675,825
+100,other vegetables,562.5,562.5,787.5
+100,red and orange vegetables,405,712.5,975
+100,seafood,2475,900,1500
+100,seafood,600,1200,1425
+100,starchy vegetables,502.5,675,975
+100,seafood,2475,900,1500
+100,seafood,600,1200,1425
+100,seafood,600,1200,1425
+101,dark green vegetables,127.5,225,337.5
+101,legumes beans and peas,97.5,187.5,337.5
+101,meat poultry and eggs,4050,3750,4725
+101,nuts seeds and soy products,825,675,825
+101,other vegetables,562.5,562.5,787.5
+101,red and orange vegetables,405,712.5,975
+101,seafood,2475,900,1500
+101,seafood,600,1200,1425
+101,starchy vegetables,502.5,675,975
+101,seafood,2475,900,1500
+101,seafood,600,1200,1425
+101,seafood,600,1200,1425
+102,dark green vegetables,127.5,225,337.5
+102,legumes beans and peas,97.5,187.5,337.5
+102,meat poultry and eggs,4050,3750,4725
+102,nuts seeds and soy products,825,675,825
+102,other vegetables,562.5,562.5,787.5
+102,red and orange vegetables,405,712.5,975
+102,seafood,2475,900,1500
+102,seafood,600,1200,1425
+102,starchy vegetables,502.5,675,975
+102,seafood,2475,900,1500
+102,seafood,600,1200,1425
+102,seafood,600,1200,1425
+103,dark green vegetables,127.5,225,337.5
+103,legumes beans and peas,97.5,187.5,337.5
+103,meat poultry and eggs,4050,3750,4725
+103,nuts seeds and soy products,825,675,825
+103,other vegetables,562.5,562.5,787.5
+103,red and orange vegetables,405,712.5,975
+103,seafood,2475,900,1500
+103,seafood,600,1200,1425
+103,starchy vegetables,502.5,675,975
+103,seafood,2475,900,1500
+103,seafood,600,1200,1425
+103,seafood,600,1200,1425
+104,dark green vegetables,127.5,225,337.5
+104,legumes beans and peas,97.5,187.5,337.5
+104,meat poultry and eggs,4050,3750,4725
+104,nuts seeds and soy products,825,675,825
+104,other vegetables,562.5,562.5,787.5
+104,red and orange vegetables,405,712.5,975
+104,seafood,2475,900,1500
+104,seafood,600,1200,1425
+104,starchy vegetables,502.5,675,975
+104,seafood,2475,900,1500
+104,seafood,600,1200,1425
+104,seafood,600,1200,1425
+105,dark green vegetables,127.5,225,337.5
+105,legumes beans and peas,97.5,187.5,337.5
+105,meat poultry and eggs,4050,3750,4725
+105,nuts seeds and soy products,825,675,825
+105,other vegetables,562.5,562.5,787.5
+105,red and orange vegetables,405,712.5,975
+105,seafood,2475,900,1500
+105,seafood,600,1200,1425
+105,starchy vegetables,502.5,675,975
+105,seafood,2475,900,1500
+105,seafood,600,1200,1425
+105,seafood,600,1200,1425
+106,dark green vegetables,127.5,225,337.5
+106,legumes beans and peas,97.5,187.5,337.5
+106,meat poultry and eggs,4050,3750,4725
+106,nuts seeds and soy products,825,675,825
+106,other vegetables,562.5,562.5,787.5
+106,red and orange vegetables,405,712.5,975
+106,seafood,2475,900,1500
+106,seafood,600,1200,1425
+106,starchy vegetables,502.5,675,975
+106,seafood,2475,900,1500
+106,seafood,600,1200,1425
+106,seafood,600,1200,1425
+107,dark green vegetables,127.5,225,337.5
+107,legumes beans and peas,97.5,187.5,337.5
+107,meat poultry and eggs,4050,3750,4725
+107,nuts seeds and soy products,825,675,825
+107,other vegetables,562.5,562.5,787.5
+107,red and orange vegetables,405,712.5,975
+107,seafood,2475,900,1500
+107,seafood,600,1200,1425
+107,starchy vegetables,502.5,675,975
+107,seafood,2475,900,1500
+107,seafood,600,1200,1425
+107,seafood,600,1200,1425
+108,dark green vegetables,127.5,225,337.5
+108,legumes beans and peas,97.5,187.5,337.5
+108,meat poultry and eggs,4050,3750,4725
+108,nuts seeds and soy products,825,675,825
+108,other vegetables,562.5,562.5,787.5
+108,red and orange vegetables,405,712.5,975
+108,seafood,2475,900,1500
+108,seafood,600,1200,1425
+108,starchy vegetables,502.5,675,975
+108,seafood,2475,900,1500
+108,seafood,600,1200,1425
+108,seafood,600,1200,1425
+109,dark green vegetables,127.5,225,337.5
+109,legumes beans and peas,97.5,187.5,337.5
+109,meat poultry and eggs,4050,3750,4725
+109,nuts seeds and soy products,825,675,825
+109,other vegetables,562.5,562.5,787.5
+109,red and orange vegetables,405,712.5,975
+109,seafood,2475,900,1500
+109,seafood,600,1200,1425
+109,starchy vegetables,502.5,675,975
+109,seafood,2475,900,1500
+109,seafood,600,1200,1425
+109,seafood,600,1200,1425
+110,dark green vegetables,127.5,225,337.5
+110,legumes beans and peas,97.5,187.5,337.5
+110,meat poultry and eggs,4050,3750,4725
+110,nuts seeds and soy products,825,675,825
+110,other vegetables,562.5,562.5,787.5
+110,red and orange vegetables,405,712.5,975
+110,seafood,2475,900,1500
+110,seafood,600,1200,1425
+110,starchy vegetables,502.5,675,975
+110,seafood,2475,900,1500
+110,seafood,600,1200,1425
+110,seafood,600,1200,1425
+111,dark green vegetables,127.5,225,337.5
+111,legumes beans and peas,97.5,187.5,337.5
+111,meat poultry and eggs,4050,3750,4725
+111,nuts seeds and soy products,825,675,825
+111,other vegetables,562.5,562.5,787.5
+111,red and orange vegetables,405,712.5,975
+111,seafood,2475,900,1500
+111,seafood,600,1200,1425
+111,starchy vegetables,502.5,675,975
+111,seafood,2475,900,1500
+111,seafood,600,1200,1425
+111,seafood,600,1200,1425
+112,dark green vegetables,127.5,225,337.5
+112,legumes beans and peas,97.5,187.5,337.5
+112,meat poultry and eggs,4050,3750,4725
+112,nuts seeds and soy products,825,675,825
+112,other vegetables,562.5,562.5,787.5
+112,red and orange vegetables,405,712.5,975
+112,seafood,2475,900,1500
+112,seafood,600,1200,1425
+112,starchy vegetables,502.5,675,975
+112,seafood,2475,900,1500
+112,seafood,600,1200,1425
+112,seafood,600,1200,1425
+113,dark green vegetables,127.5,225,337.5
+113,legumes beans and peas,97.5,187.5,337.5
+113,meat poultry and eggs,4050,3750,4725
+113,nuts seeds and soy products,825,675,825
+113,other vegetables,562.5,562.5,787.5
+113,red and orange vegetables,405,712.5,975
+113,seafood,2475,900,1500
+113,seafood,600,1200,1425
+113,starchy vegetables,502.5,675,975
+113,seafood,2475,900,1500
+113,seafood,600,1200,1425
+113,seafood,600,1200,1425
+114,dark green vegetables,127.5,225,337.5
+114,legumes beans and peas,97.5,187.5,337.5
+114,meat poultry and eggs,4050,3750,4725
+114,nuts seeds and soy products,825,675,825
+114,other vegetables,562.5,562.5,787.5
+114,red and orange vegetables,405,712.5,975
+114,seafood,2475,900,1500
+114,seafood,600,1200,1425
+114,starchy vegetables,502.5,675,975
+114,seafood,2475,900,1500
+114,seafood,600,1200,1425
+114,seafood,600,1200,1425
+115,dark green vegetables,127.5,225,337.5
+115,legumes beans and peas,97.5,187.5,337.5
+115,meat poultry and eggs,4050,3750,4725
+115,nuts seeds and soy products,825,675,825
+115,other vegetables,562.5,562.5,787.5
+115,red and orange vegetables,405,712.5,975
+115,seafood,2475,900,1500
+115,seafood,600,1200,1425
+115,starchy vegetables,502.5,675,975
+115,seafood,2475,900,1500
+115,seafood,600,1200,1425
+115,seafood,600,1200,1425
+116,dark green vegetables,127.5,225,337.5
+116,legumes beans and peas,97.5,187.5,337.5
+116,meat poultry and eggs,4050,3750,4725
+116,nuts seeds and soy products,825,675,825
+116,other vegetables,562.5,562.5,787.5
+116,red and orange vegetables,405,712.5,975
+116,seafood,2475,900,1500
+116,seafood,600,1200,1425
+116,starchy vegetables,502.5,675,975
+116,seafood,2475,900,1500
+116,seafood,600,1200,1425
+116,seafood,600,1200,1425
+117,dark green vegetables,127.5,225,337.5
+117,legumes beans and peas,97.5,187.5,337.5
+117,meat poultry and eggs,4050,3750,4725
+117,nuts seeds and soy products,825,675,825
+117,other vegetables,562.5,562.5,787.5
+117,red and orange vegetables,405,712.5,975
+117,seafood,2475,900,1500
+117,seafood,600,1200,1425
+117,starchy vegetables,502.5,675,975
+117,seafood,2475,900,1500
+117,seafood,600,1200,1425
+117,seafood,600,1200,1425
+118,dark green vegetables,127.5,225,337.5
+118,legumes beans and peas,97.5,187.5,337.5
+118,meat poultry and eggs,4050,3750,4725
+118,nuts seeds and soy products,825,675,825
+118,other vegetables,562.5,562.5,787.5
+118,red and orange vegetables,405,712.5,975
+118,seafood,2475,900,1500
+118,seafood,600,1200,1425
+118,starchy vegetables,502.5,675,975
+118,seafood,2475,900,1500
+118,seafood,600,1200,1425
+118,seafood,600,1200,1425
+119,dark green vegetables,127.5,225,337.5
+119,legumes beans and peas,97.5,187.5,337.5
+119,meat poultry and eggs,4050,3750,4725
+119,nuts seeds and soy products,825,675,825
+119,other vegetables,562.5,562.5,787.5
+119,red and orange vegetables,405,712.5,975
+119,seafood,2475,900,1500
+119,seafood,600,1200,1425
+119,starchy vegetables,502.5,675,975
+119,seafood,2475,900,1500
+119,seafood,600,1200,1425
+119,seafood,600,1200,1425
+120,dark green vegetables,127.5,225,337.5
+120,legumes beans and peas,97.5,187.5,337.5
+120,meat poultry and eggs,4050,3750,4725
+120,nuts seeds and soy products,825,675,825
+120,other vegetables,562.5,562.5,787.5
+120,red and orange vegetables,405,712.5,975
+120,seafood,2475,900,1500
+120,seafood,600,1200,1425
+120,starchy vegetables,502.5,675,975
+120,seafood,2475,900,1500
+120,seafood,600,1200,1425
+120,seafood,600,1200,1425

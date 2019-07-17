@@ -1,0 +1,11 @@
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.2015-2016-demographics_data.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.2015-2016-dietary-interview-individual-foods-2nd-day-DR2IFF_I.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.2015-2016-dietary-interview-individual-foods-first-day-DR1IFF_I.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.multi-day-dietary-interview-individual-foods.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.temp_albumin_creatinine_and_demographics_food_items.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.temp_albumin_creatinine_and_demographics_nutrients.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.temp_average_intake_by_food_subgroups_demo_acr_kidney_blood_pressure.Table.sql
+database-sqls-for-methodology-and-experiment/scripts-with-data/dbo.usda_average_intake_by_food_subgroups_demo_acr_kidney_blood_pressure.Table.sql
+sql-server-databases-as-used-only-backups-are-here-in-dot-bak-format
+sql-server-databases-as-used-only-backups-are-here-in-dot-bak-format/mrp_experiment_phase_data_process.bak
+sql-server-databases-as-used-only-backups-are-here-in-dot-bak-format/mrp_experiment_phase_data_process.bak

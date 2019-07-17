@@ -1,0 +1,65 @@
+age_from,age_to,subgroup,food subgroup,average_taken,recommended_low,recommended_high
+1,3,dark green vegetables,dark_green_vegetables,37.5,75,150
+4,8,dark green vegetables,dark_green_vegetables,60,150,225
+9,13,dark green vegetables,dark_green_vegetables,60,187.5,337.5
+14,18,dark green vegetables,dark_green_vegetables,67.5,225,337.5
+19,30,dark green vegetables,dark_green_vegetables,97.5,262.5,337.5
+31,50,dark green vegetables,dark_green_vegetables,135,262.5,337.5
+51,70,dark green vegetables,dark_green_vegetables,180,225,337.5
+71,120,dark green vegetables,dark_green_vegetables,127.5,225,337.5
+1,3,legumes beans and peas,legumes_beans_and_peas,60,60,90
+4,8,legumes beans and peas,legumes_beans_and_peas,60,75,225
+9,13,legumes beans and peas,legumes_beans_and_peas,75,112.5,337.5
+14,18,legumes beans and peas,legumes_beans_and_peas,75,225,375
+19,30,legumes beans and peas,legumes_beans_and_peas,112.5,262.5,375
+31,50,legumes beans and peas,legumes_beans_and_peas,135,262.5,375
+51,70,legumes beans and peas,legumes_beans_and_peas,105,187.5,337.5
+71,120,legumes beans and peas,legumes_beans_and_peas,97.5,187.5,337.5
+1,3,meat poultry and eggs,meat_poultry_and_eggs,2400,1500,2850
+4,8,meat poultry and eggs,meat_poultry_and_eggs,3300,2100,3750
+9,13,meat poultry and eggs,meat_poultry_and_eggs,4050,3225,4500
+14,18,meat poultry and eggs,meat_poultry_and_eggs,4800,3750,4875
+19,30,meat poultry and eggs,meat_poultry_and_eggs,5400,4125,4875
+31,50,meat poultry and eggs,meat_poultry_and_eggs,5475,3975,4725
+51,70,meat poultry and eggs,meat_poultry_and_eggs,4950,3750,4725
+71,120,meat poultry and eggs,meat_poultry_and_eggs,4050,3750,4725
+1,3,nuts seeds and soy products,nuts_seeds_and_soy_products,300,300,450
+4,8,nuts seeds and soy products,nuts_seeds_and_soy_products,450,300,675
+9,13,nuts seeds and soy products,nuts_seeds_and_soy_products,525,525,750
+14,18,nuts seeds and soy products,nuts_seeds_and_soy_products,450,675,825
+19,30,nuts seeds and soy products,nuts_seeds_and_soy_products,525,675,825
+31,50,nuts seeds and soy products,nuts_seeds_and_soy_products,825,675,825
+51,70,nuts seeds and soy products,nuts_seeds_and_soy_products,825,675,825
+71,120,nuts seeds and soy products,nuts_seeds_and_soy_products,825,675,825
+1,3,other vegetables,other_vegetables,172.5,225,375
+4,8,other vegetables,other_vegetables,202.5,375,600
+9,13,other vegetables,other_vegetables,270,450,787.5
+14,18,other vegetables,other_vegetables,367.5,600,900
+19,30,other vegetables,other_vegetables,547.5,675,900
+31,50,other vegetables,other_vegetables,615,675,900
+51,70,other vegetables,other_vegetables,697.5,562.5,787.5
+71,120,other vegetables,other_vegetables,562.5,562.5,787.5
+1,3,red and orange vegetables,red_and_orange_vegetables,217.5,375,450
+4,8,red and orange vegetables,red_and_orange_vegetables,270,450,825
+9,13,red and orange vegetables,red_and_orange_vegetables,307.5,525,975
+14,18,red and orange vegetables,red_and_orange_vegetables,360,825,1012.5
+19,30,red and orange vegetables,red_and_orange_vegetables,435,862.5,1012.5
+31,50,red and orange vegetables,red_and_orange_vegetables,442.5,862.5,1012.5
+51,70,red and orange vegetables,red_and_orange_vegetables,435,712.5,975
+71,120,red and orange vegetables,red_and_orange_vegetables,405,712.5,975
+1,3,seafood,seafood,150,450,900
+4,8,seafood,seafood,150,600,1200
+9,13,seafood,seafood,225,1050,1425
+14,18,seafood,seafood,225,1200,1500
+19,120,seafood,seafood,2475,900,1500
+31,50,seafood,seafood,675,1275,1425
+51,70,seafood,seafood,675,1200,1425
+71,120,seafood,seafood,600,1200,1425
+1,3,starchy vegetables,starchy_vegetables,232.5,300,525
+4,8,starchy vegetables,starchy_vegetables,330,525,750
+9,13,starchy vegetables,starchy_vegetables,405,562.5,975
+14,18,starchy vegetables,starchy_vegetables,427.5,750,1050
+19,30,starchy vegetables,starchy_vegetables,450,825,1050
+31,50,starchy vegetables,starchy_vegetables,495,825,1050
+51,70,starchy vegetables,starchy_vegetables,510,675,975
+71,120,starchy vegetables,starchy_vegetables,502.5,675,975
