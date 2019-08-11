@@ -1,0 +1,32 @@
+\documentclass[11pt, a4paper,  margin=1in]{article}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\geometry{a4paper, portrait, margin=1in}
+\graphicspath{ {./images/} }
+
+\renewcommand{\baselinestretch}{2}
+
+\begin{document}
+
+%\pagestyle{plain}
+\include{front-page}
+\include{declaration-author}
+\include{abstract}
+\include{acknowledgements}
+
+\tableofcontents
+\pagebreak
+
+\input{introduction}
+\input{literature}
+\input{methodology}
+\input{experiment-and-outcome}
+\input{results}
+\input{conclusions}
+\input{references}
+
+
+\end{document}
