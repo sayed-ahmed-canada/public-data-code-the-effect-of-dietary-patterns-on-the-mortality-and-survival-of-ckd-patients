@@ -1,0 +1,70 @@
+\subsection{\textbf{Predictability of ACR values based on Dietary patterns}}
+Experiments were conducted to discover if ACR values can be predicted using the food intake patterns. Machine Learning (ML) Approaches such as Regression, Polynomial Regression, Random Forest Regression, Bayesian prediction with or without 10 fold cross validations were applied on Food Subgroups intake dataset. Only the food subgroups that were found to be important using PCA were used for the ML approaches.
+
+\medskip 
+\noindent \textbf{Target Variables}
+
+
+\noindent Absolute ACR values and ACR Category were used as the target variables.  For ACR category, ACR < 30 is assigned to class 0, and ACR > 30 is assigned to class 1. ACR values less than 30 indicate no CKD, where ACR values between 30 and 300 indicate moderate CKD. ACR value greater than 300 is considered severe CKD.
+
+\medskip 
+\noindent \textbf{Outcome when ACR Values are used as the Target }
+
+
+\noindent The best test set accuracies were found using the approaches such as: 10 Fold Cross Validations with Polynomial Regression (95\%), Polynomial Bayesian with 10 fold Cross Validations (68\%), Polynomial Regression (57\%), Bayesian on Polynomial fit (41\%), Cross Validation with Polynomial Random Forest Regression (21\%). A list of the best performing approaches and the outcome are provided below. Complete list can be seen in the appendix. 
+
+\medskip
+
+\begin{center}
+\small
+\begin{tabular}{ |c | c | c | c | c|c|c|c|c| }
+\hline
+
+\specialcell{Data \\ Normalized}	& Target	&  Approach	&  \specialcell {MSE \\ Train }	&  \specialcell { MSE \\ Test}	&  \specialcell {RMSE \\Train}	&  \specialcell { RMSE \\ Test}	&  \specialcell {R2 Score \\ Train}	 &  \specialcell {Accuracy: \\ Test R2 Score \\ if not mentioned} \\
+
+\hline
+No			& \specialcell{ACR \\Value}	& \multicolumn{3}{c|} { \specialcell{10 Fold Cross Validation \\Polynomial Regression}} 		&	1 				& 2 					 & 3 					  &	\specialcell{-0.957  \\ cross val \\ score } \\
+
+\hline
+No			& \specialcell{ACR \\ Value} 	& \multicolumn{3}{c|} { \specialcell{ Polynomial Bayesian \\with Cross Validation }} 		&	1 				& 2 					 & 3 					  &	\specialcell{-0.682 \\ cross val \\score } \\
+
+\hline
+
+
+No			& \specialcell{ACR Value}	& \specialcell { Polynomial \\ Regression }	&  90965	& 52946	& 301	& 301	& 0.359	& \specialcell {-0.579 \\ r2 score \\on \\test data } \\
+
+\hline
+
+
+No	& \specialcell{ACR \\Value}	& \specialcell{Bayesian on \\ Polynomial \\ fit}	& 93047	& 47431	& 305	& 305	& 0.344	& \specialcell {-0.414 \\ r2 score \\on \\test data }  \\
+
+\hline
+
+\end{tabular}
+\end{center}
+
+
+\medskip 
+\noindent \textbf{Outcome when ACR Category is Used as the Target}
+
+\noindent After regression, y greater than 0.5 is assigned to category 1 (CKD), others were assigned to category 0. Test accuracies are 88\%. Format for confusion matrix data in the table below: (Total, \% Correct : [ TP, FN, FP, TN] )
+\medskip 
+
+\begin{center}
+\small
+\begin{tabular}{ |c | c | c | c | c| }
+\hline
+Data Norm	& Target	& Approach	& Train Confusion Matrix 	   & Test Confusion Matrix\\
+\hline
+No		& Category	&  \specialcell{ Linear  \\Regression}	 &  \specialcell { [6032,0, 895,0]}  &	\specialcell{ 770, 88\% \\  (692, 0,  78, 0) }   \\
+\hline
+Yes		& Category	&  \specialcell{Linear \\ Regression}	&  \specialcell{[6032,0, 895,0]}  &	\specialcell{ 770, 88\% \\ (692, 0, 78, 0) }   \\
+\hline
+\end{tabular}
+\end{center}
+
+
+
+\medskip 
+\noindent The high prediction accuracies might relate to the fact that only 10 to 14\% population has ACR greater than 30. However, as cross validations also show high accuracy, it can be concluded that ACR values can be well predicted using Machine Learning approaches especially with 10 Fold Cross Validation Polynomial Regression having accuracy 95\%
+%\end{flushleft}
