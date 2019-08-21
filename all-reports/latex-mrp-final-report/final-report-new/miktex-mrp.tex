@@ -1,13 +1,20 @@
-\documentclass[11pt, a4paper,  margin=1in]{article}
+\documentclass[10pt, a4paper,  margin=1in]{article}
 \hyphenpenalty=10000
 \exhyphenpenalty=10000
 \usepackage{graphicx}
 \usepackage{geometry}
 \usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 \geometry{a4paper, portrait, margin=1in}
 \graphicspath{ {./images/} }
 
-\renewcommand{\baselinestretch}{2}
+\renewcommand{\baselinestretch}{1.5}
 
 \begin{document}
 
@@ -26,11 +33,12 @@
 
 \input{introduction}
 \input{literature}
+\input{exploratory-study}
 \input{methodology}
 \input{experiment-and-outcome}
 \input{results}
 \input{conclusions}
+\input{appendix}
 \input{references}
-
 
 \end{document}
