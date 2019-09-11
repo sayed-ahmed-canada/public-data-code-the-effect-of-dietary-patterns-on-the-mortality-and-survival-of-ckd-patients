@@ -4,7 +4,7 @@ Associations of Food Groups, Food Subgroups, Food Nutrients with CKD mortality a
 \subsection{Food Groups, Food Subgroups, Food Nutrients and CKD Mortality}
 \noindent \textbf{Food Groups and Mortality}
 
-\noindent Experiments with aggregated NHANES and USRDS  data to find associations between food groups and CKD mortality using PCA and Regression show that Grains (-0.84) and Fruits (-0.43) have negative correlations with CKD mortality i.e. mortality is high for the patients who took significantly lower amount of Grains and Fruits than recommended amounts. Data exploration (plots below) also reflects the negative relation. As the correlation for fruits is -0.43 i.e. not very high, hence, Fruits can be thought of mildly/moderately associated.
+\noindent Experiments (Set 1, Table \ref{experiment-start} ) with aggregated NHANES and USRDS  data to find associations between food groups and CKD mortality using PCA and Regression show that Grains (-0.84) and Fruits (-0.43) have negative correlations with CKD mortality i.e. mortality is high for the patients who took significantly lower amount of Grains and Fruits than recommended amounts. Data exploration (Figures \ref{grain-mortality} and \ref{fruit-mortality}) also reflects the negative relation. As the correlation for fruits is -0.43 i.e. not very high, hence, Fruits can be thought of mildly/moderately associated.
 \begin{figure}[!htb]
 \small
 \begin{tabular}{cc}	
@@ -13,12 +13,14 @@ Grains & Grains \\
 \end{tabular}
 \centering
 \caption{\textbf{Food Groups (Grains) and Mortality - Negative Correlations}}
+\label{grain-mortality}
 \vspace{0.25cm}
 \begin{tabular}{cc}	
 \specialcell{\includegraphics[scale=0.55]{pair_plot_fruits_ratio} } & \specialcell{ \includegraphics[scale=0.5]{standard_fruit_ratio_mortality.png} } \\
 Fruits & Fruits \\
 \end{tabular}
 \caption{\textbf{Food Groups (Fruits) and Mortality - Negative Correlations}}
+\label{fruit-mortality}
 \vspace{0.25cm}
 \end{figure}
 
@@ -32,13 +34,14 @@ Fruits & Fruits \\
 \end{tabular}
 \centering
 \caption{\textbf{Food Groups and Mortality - Positive Correlations (Vegetables) }}
+\label{vegetable-mortality}
 \end{figure}
 
-\noindent Vegetables show positive (0.58) correlation i.e. mortality is high for the patients who took more vegetables. The correlation of 0.58 does not provide a very strong conclusion. Data shows such correlations in older adults. Even though ratios of food intake amount to high end of recommended amounts (actual intake amounts also show positive relation) were used; age might have biased the correlation. This does not show conformity with the general recommendation to take more vegetables for CKD patients. However, as experiments with food subgroups show that vegetable subgroups such as Other vegetables (0.68), Red and Orange vegetables (0.55), and Starchy vegetables (0.44) show positive correlations that have an impact on the Vegetable group correlation.  Although more vegetable intake is a general recommendation for CKD patients, certain vegetables with more carbohydrates (and sugars) such as Starchy Vegetables as well as Vegetables with more Potassium and Calcium such as Tomatoes, and Spinach are recommended to be taken at a lower amount. For diabetes induced CKD, starchy vegetables are not highly recommended in general. Considering the subgroups, the moderate positive correlation as this study found for vegetables food group is in conformity with the general recommendations for CKD patients.
+\noindent Vegetables show positive (0.58) correlation i.e. mortality is high for the patients who took more vegetables. The correlation of 0.58 does not provide a very strong conclusion. Data shows (Figure \ref{vegetable-mortality}) such correlations in older adults. Even though ratios of food intake amount to high end of recommended amounts (actual intake amounts also show positive relation) were used; age might have biased the correlation. This does not show conformity with the general recommendation to take more vegetables for CKD patients. However, as experiments with food subgroups show that vegetable subgroups such as Other vegetables (0.68), Red and Orange vegetables (0.55), and Starchy vegetables (0.44) show positive correlations that have an impact on the Vegetable group correlation.  Although more vegetable intake is a general recommendation for CKD patients, certain vegetables with more carbohydrates (and sugars) such as Starchy Vegetables as well as Vegetables with more Potassium and Calcium such as Tomatoes, and Spinach are recommended to be taken at a lower amount. For diabetes induced CKD, starchy vegetables are not highly recommended in general. Considering the subgroups, the moderate positive correlation as this study found for vegetables food group is in conformity with the general recommendations for CKD patients.
 
-\noindent Experiments with aggregated NHANES and USRDS data to find associations between food subgroups and CKD mortality using PCA and Regression show that  Other vegetables (0.68),    Red and orange vegetables (0.55), and Starchy vegetables (0.44)  have positive correlations with mortality i.e. mortality is low when the intake amounts are low, and mortality is high when intake amounts are high. Data Exploration plots as given below also show these positive relations.
+\noindent Experiments (Set 2, Table \ref{experiment-3}) with aggregated NHANES and USRDS data to find associations between food subgroups and CKD mortality using PCA and Regression show that  Other vegetables (0.68),    Red and orange vegetables (0.55), and Starchy vegetables (0.44)  have positive correlations with mortality i.e. mortality is low when the intake amounts are low, and mortality is high when intake amounts are high. Data Exploration plots (Figure \ref{starchy-red-other}) also show these positive relations.
 
-\noindent  Food subgroups such as Alcoholic Beverages (-0.79),    Added Sugars/Sugars and Sweets (-0.64), Whole Grains (-0.61), and  `Nuts, Seeds, and Soy Products' (-0.55) show the most negative correlations with CKD mortality. Data exploration also shows negative correlations as shown in the charts below. These outcomes are also consistent with current knowledge except for Sugars. Prevalence of Stage 3 CKD is lower in Alcohol Drinkers than non-drinkers [2, 49], Nuts being Phosphorus rich and Whole Grains being Potassium rich are detrimental to CKD patients and can cause higher mortality when taken in higher quantities.
+\noindent  Food subgroups such as Alcoholic Beverages (-0.79),    Added Sugars/Sugars and Sweets (-0.64), Whole Grains (-0.61), and  `Nuts, Seeds, and Soy Products' (-0.55) show the most negative correlations with CKD mortality. Data exploration (Figure \ref{alcohol-sugar-nuts}) also shows negative correlations as shown in the charts below. These outcomes are also consistent with current knowledge except for Sugars. Prevalence of Stage 3 CKD is lower in Alcohol Drinkers than non-drinkers [2, 49], Nuts being Phosphorus rich and Whole Grains being Potassium rich are detrimental to CKD patients and can cause higher mortality when taken in higher quantities.
 
 \begin{figure}[!htb]
 \small
@@ -50,6 +53,7 @@ Fruits & Fruits \\
 \end{tabular}
 \centering
 \caption{\textbf{Food Subgroups and Mortality - Positive Correlations}}
+\label{starchy-red-other}
 \begin{tabular}{ccc}
 	\specialcell{ \includegraphics[scale=0.35]{negatively_subgroup_avg_alcohol_intake} } & 
 	\specialcell{\includegraphics[scale=0.35]{negatively_added_sugar_subgroup_line_2}   } &
@@ -61,15 +65,16 @@ Fruits & Fruits \\
 \end{tabular}
 \centering
 \caption{\textbf{Food Subgroups and Mortality - Negative Correlations}}
+\label{alcohol-sugar-nuts}
 \end{figure}
 
 \noindent \textbf{Mortality Study with Non-aggregated Data}
 
-\noindent For experiments where mortality rates based on ages were used for each NHANES survey row (i.e. not aggregated), the following food subgroups show more positive correlations than others: Fats, Eggs, Other vegetables, Nonalcoholic beverages, White potatoes and Puerto Rican starchy vegetables, Tomatoes and tomato mixtures, Oils, Deep-yellow vegetables respectively. In the study, the following subgroups showed more negative correlations than others: Grain mixtures, Frozen plate meals, Soups, Crackers and Salty snacks from grain products, Milks and milk drinks, Sandwiches with Meat, Poultry, and fish, Poultry. Although the correlation numbers in this study are very low, the positive and negative correlations are consistent with current knowledge [48, 49, 50, 51, 52, 53, 54, 55, 56, 57].
+\noindent For experiments (Set 7, Table \ref{experiment-8}) where mortality rates based on ages were used for each NHANES survey row (i.e. not aggregated), the following food subgroups show more positive correlations than others: Fats, Eggs, Other vegetables, Nonalcoholic beverages, White potatoes and Puerto Rican starchy vegetables, Tomatoes and tomato mixtures, Oils, Deep-yellow vegetables respectively. In the study, the following subgroups showed more negative correlations than others: Grain mixtures, Frozen plate meals, Soups, Crackers and Salty snacks from grain products, Milks and milk drinks, Sandwiches with Meat, Poultry, and fish, Poultry. Although the correlation numbers in this study are very low, the positive and negative correlations are consistent with current knowledge [48, 49, 50, 51, 52, 53, 54, 55, 56, 57].
 
 \noindent \textbf{Food Groups, Food Nutrients, and Albumin to Creatinine Ratio (ACR) Association}
 
-\noindent The experiments using PCA and Regression showed negligible correlation between ACR and food groups and subgroups intake. However, some food groups and/or nutrients such as Dairy, and  `Sugars, Sweets, and Beverages'  have higher and positive though negligible (0.02) effect than the others where Fruits (-0.01) showed negative effect.  For nutrients, Polyunsaturated fatty acids (-0.02), and Iron (-0.02) have negative correlations where Choline (0.02) showed better positive correlation than others. Findings for Choline matches with medical knowledge [48]. As the correlations are not significant further analysis can be done on the data especially for food groups and nutrients that are found important (using PCA) in the data as provided below:
+\noindent The experiments (Set 3, 4, and 5 i.e. Table \ref{experiment-4}, \ref{experiment-5}, \ref{experiment-6} ) using PCA and Regression showed negligible correlation between ACR and food groups and subgroups intake. However, some food groups and/or nutrients such as Dairy, and  `Sugars, Sweets, and Beverages'  have higher and positive though negligible (0.02) effect than the others where Fruits (-0.01) showed negative effect.  For nutrients, Polyunsaturated fatty acids (-0.02), and Iron (-0.02) have negative correlations where Choline (0.02) showed more positive correlation than others. Findings for Choline matches with medical knowledge [48]. As the correlations are not significant further analysis can be done on the data especially for food groups and nutrients that are found important (using PCA) in the data as provided below:
 
 \noindent Dairy,  Fats, oils, and salad dressings’,  Fruits,  Grains,  Protein,   Sugars, sweets, and beverages’, Vegetables, Avg energy kcal,  avg protein gm,  avg carbohydrate gm,  avg total fat gm,  avg total saturated fatty acids gm, avg total monounsaturated fatty acids gm,  avg total polyunsaturated fatty acids gm, avg lutein zeaxanthin mcg,  avg thiamin vitamin B1 mg,  avg riboflavin Vitamin B2 mg,  avg Niacin mg, avg Calcium mg,  avg Phosphorus mg,  avg Magnesium mg,  avg Iron mg, avg Zinc mg,  avg Copper mg,  avg Sodium mg,  avg Potassium mg,  avg Selenium mcg,  Hexadecenoic gm,  Octadecenoic gm
 
@@ -78,7 +83,7 @@ Fruits & Fruits \\
 \noindent The experiments showed  `Milk desserts, Sauces, Gravies' (0.22), and Alcoholic Beverages (0.087) have more positive correlations with ACR than the other food subgroups  i.e. taking more of these food subgroups results higher ACR values. Research by Uehara et al. [55] also shows that excessive Alcohol consumption can cause Proteinuria/Albuminuria (high ACR). Nettleton et al. [56] found that high fat dairy can be linked to high ACR values where low-fat dairy is not strongly linked to high ACR values. However, the correlation as this research found is very low. Low values might still explain a correlation where ACR values might depend on other factors in together than only these food subgroups. Fruits and juicy baby foods show negative correlation (-0.04) though not significant i.e. taking high amount does not increase ACR values that matched with current knowledge [57].
 
 \subsection{Predictability of ACR values based on Dietary patterns}
-Experiments were conducted to predict ACR values from the dietary intake patterns data. Machine Learning (ML) Approaches of Regression, Polynomial Regression, Random Forest Regression, Bayesian prediction with or without 10 fold cross validations were applied on Food Subgroups intake dataset. Only the food subgroups that were found to be important using PCA were used for the ML approaches.
+Experiments (Set 6, Table \ref{experiment-7} ) were conducted to predict ACR values from the dietary intake patterns data. Machine Learning (ML) Approaches of Regression, Polynomial Regression, Random Forest Regression, Bayesian prediction with or without 10 fold cross validations were applied on Food Subgroups intake dataset. Only the food subgroups that were found to be important using PCA were used for the ML approaches.
 
 \noindent \textbf{Target Variables}
 

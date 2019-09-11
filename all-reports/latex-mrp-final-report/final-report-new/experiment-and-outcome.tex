@@ -1,75 +1,69 @@
 \newcommand{\specialcell}[2][c]{%
 \begin{tabular}[#1]{@{}l@{}}#2\end{tabular}}
 \section{Experiment Design}
-%\noindent \textbf{Experiment Overview} 
-\noindent Experiments as provided in Table \ref{experiment-start} to \ref{experiment-end} are designed to find associations between dietary patterns and CKD mortality as well as to predict ACR values. All of these experiments except set 9 are conducted.
+\noindent Experiments as provided in Tables \ref{experiment-start} to \ref{experiment-end} are designed to find associations between dietary patterns and CKD mortality as well as to predict ACR values. All of these experiments except set 8 and 9 are conducted.
 
 \begin{center}
 \begin{table}[!htb]
 \small
-\caption{\textbf{Set 1: Mortality and CKD: Food Groups}}
+\caption{\textbf{Set 1: Association of Food Groups with CKD Mortality}}
 \label{experiment-start}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Primary Input Dataset:} &  NHANES survey aggregated to  calculate average food item  intake by USRDS like age groups \\
+\noindent \textbf{Primary Input Dataset:} &  NHANES dietary intake survey aggregated by USRDS age groups to calculate average food item  intake by the participants \\
 \hline
 \noindent \textbf{Target Variable:} & ESRD: Avg. Annual Mortality rates \\
 \hline
-\noindent \textbf{Experiment 1.1:}  &   \noindent Identify contributing and important food groups in the dataset  using PCA  a) Using Actual Intake Amount  b) Using ratios of intake and recommended high \\
+\noindent \textbf{Experiment 1.1:}  &   \noindent Identify contributing and important food groups in the dataset  using PCA  a) Using Actual Intake Amount  b) Using ratios of intake and recommended high amounts\\
 \hline
-\noindent \textbf{Experiment 1.2:}  &  Find out correlation (using Pearson’s correlation and regression)  between CKD  mortality and important food groups as found  using PCA  in  experiment 1.   a) Using Actual Intake Amount   b) Using ratios of  intake amount and recommended high \\
+\noindent \textbf{Experiment 1.2:}  &  Find correlation (using Pearson’s correlation and regression)  between CKD  mortality and important food groups as found  using PCA  in  experiment 1.1.   a) Using Actual Intake Amount   b) Using ratios of  intake and recommended high amounts \\
 \hline
 \end{tabular}
 \end{table}
 \end{center}
 
-%\begin{center}
-\begin{table}[!htb]
-%\small
-\caption{\textbf{Set 2: Mortality and CKD: Food Sub Groups}}
+\begin{table}[!h]
+\caption{\textbf{Set 2: Association of Food Subgroups with CKD Mortality}}
+\label{experiment-3}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Primary Input Dataset:} &  { NHANES survey aggregated to calculate average food item intake  by USRDS  like age groups}  \\
+\noindent \textbf{Primary Input Dataset:} &  { NHANES survey aggregated by USRDS  age groups to calculate average food item (food subgroups) intake by the participants  }  \\
 \hline
 \noindent \textbf{Target Variable:} & ESRD: Avg. Annual Mortality rates \\
 \hline
-\noindent \textbf{Experiment 2.1:}  & {Identify important food sub groups in the dataset using PCA  a) Actual  Intake Amount } \\
+\noindent \textbf{Experiment 2.1:}  & {Identify important food sub groups in the dataset using PCA  and Actual  Average Intake Amount } \\
 \hline
-\noindent \textbf{Experiment 2.2:}  & {Similar to experiment 1.2 (Regression); however, used food  subgroups  and actual intake only} \\
+\noindent \textbf{Experiment 2.2:}  & {Similar to experiment 1.2 (Regression); however, used food  subgroups  and actual average intake amount only} \\
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
 
-%\begin{center}
 \begin{table}[!htb]
-%\small
-\caption{\textbf{Set 3: ACR and Food Groups}}
+\caption{\textbf{Set 3: Effect of Food Groups on ACR}}
+\label{experiment-4}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Primary Input Dataset:} & NHANES survey data for each participant averaged for  two surveys \\
+\noindent \textbf{Primary Input Dataset:} & NHANES survey data for each participant; intake amounts for food groups were averaged for  two surveys. This data was merged with  laboratory tests for ACR \\
 \hline
-\noindent \textbf{Target Variable:} & Albumin Creatinine Ratio (ACR) \\
+\noindent \textbf{Target Variable:} & Albumin to Creatinine Ratio (ACR) \\
 \hline
-\noindent \textbf{Experiment 3.1:}  & { Identify contributing food groups in the input dataset using PCA.  This is  different  than Experiment 1 because entire survey is  being used here; not the  aggregated  data by age groups} \\
+\noindent \textbf{Experiment 3.1:}  & { Identify contributing and important food groups in the input dataset using PCA.  This is  different  than Experiment 1 because entire survey is  being used here; not the  aggregated  data by age groups} \\
 \hline
 \noindent \textbf{Experiment 3.2:}  & { Find out correlation (using Pearson’s correlation, and regression)  between ACR  Values and important food groups as found using  PCA in experiment 3.1.}  \\
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
 
-%\begin{center}
-\begin{table}[!htb]
-%\small
-\caption{\textbf{Set 4: ACR Values and Nutrients}}
+\begin{table}[!ht]
+\caption{\textbf{Set 4: Effect of Nutrients on ACR}}
+\label{experiment-5}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\multicolumn{2}{|p{15cm}|}  { Utilize the same experiments as done for ACR and Food Groups. However, nutrients intake with  or without  combining with food groups } \\
+\multicolumn{2}{|p{15cm}|}  { Utilize the same experiments as done for ACR and Food Groups. However, use nutrients intake a) with  or b) without  combining with food groups } \\
 \hline
 \noindent \textbf{Experiment 4.1:} & PCA to identify contributing factors \\
 \hline
@@ -77,94 +71,73 @@
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
-\nobreak
-%\begin{center}
-\begin{table}[!htb]
+
+\begin{table}[!ht]
 \small
-\caption{\textbf{Set 5: ACR Values and Food Subgroups}}
+\caption{\textbf{Set 5: Effect of Food Subgroups on ACR}}
+\label{experiment-6}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Primary Input Dataset:} & { NHANES survey data for each participant averaged for   two  surveys } \\
+\noindent \textbf{Primary Input Dataset:} & { NHANES survey data for each participant; intake amounts for food subgroups were averaged for  two surveys. This data was merged with  laboratory tests for ACR } \\
 \hline
-\noindent \textbf{Target Variable:} & Albumin Creatinine Ratio (ACR) \\
+\noindent \textbf{Target Variable:} & Albumin to Creatinine Ratio (ACR) \\
 \hline
-\multicolumn{2}{|c|} { {Similar experiments like set 3 and set 4. However, use food subgroups as the input/source   variables}} \\
+\multicolumn{2}{|c|} { {Similar experiments like set 3 and set 4. However, used food subgroups as the input/source  variables}} \\
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
 
-%\begin{center}
-\begin{table}[!htb]
-%\small
-\caption{\textbf{Set 6: Experiments using Regression: ACR Values and Food Subgroups}}
-\vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
-\hline
-\multicolumn{2}{|p{15cm}|} {  { \noindent And then utilize Machine Learning Approaches for Mortality Prediction on Test Dataset.  Input dataset  from Set 5 can be used here as the Input dataset}} \\
-\hline
-\noindent \textbf{Experiment 6.1:} &   {ACR value prediction using linear regression. (ACR class can also be  an option)}  \\
-\hline
-\noindent \textbf{Experiment 6.2:} & Use 10 folds cross validations where possible.\\
-\hline
-\noindent \textbf{Goal:} & { Check the \% of predictability in the test dataset. Precision, recall, or  similar  might be  calculated} \\
-\hline
-\noindent \textbf{Experiment 6.3:} & Conduct experiment 6.1; however use Polynomial Regression \\
-\hline
-\noindent \textbf{Experiment 6.4:} & With 10 Folds Cross Validations  \\
-\hline
-\noindent \textbf{Experiment 6.5:} & { Conduct experiment 6.1; however, use Random Forest Regression  with or  without 10 Folds  Cross Validations. Utilize  Polynomial Regression in  the process.} \\
-\hline
-\noindent \textbf{Experiment 6.6:} & { Conduct experiment 6.1; however, use Bayesian prediction with or without  10 Folds  Cross Validations.  b) Use Polynomial Fit} \\
-\hline
-\end{tabular}
-\end{table}
-%\end{center}
+\begin{longtable}{| p{3cm}  |  p {12cm} | } 
+\caption{\textbf{Set 6: Use Regression and Bayesian to predict ACR using Food Subgroups intake}} \\
+\hline \multicolumn{2}{|p{15cm}|} {  { \noindent Utilize Machine Learning Approaches for ACR prediction in test dataset.  }} \label{experiment-7}  \\ \hline
+\noindent \textbf{Primary Input Dataset:} & { Input dataset  from Set 5 is used here as the input dataset } \\ \hline
+\noindent \textbf{Target Variable:} & ACR Values; Also, ACR categories (CKD or Not) \\ \hline
+\noindent \textbf{Experiment 6.1:} &   {ACR value prediction using linear regression. (ACR category was also  an option) }  \\ \hline
+\noindent \textbf{Experiment 6.2:} &  Conduct experiment 6.1; Use 10 folds cross validation where applicable.\\ \hline
+\noindent \textbf{Goal:} & { Find  ACR predictability in the test dataset such as calculate R2 Score or generate Confusion Matrix} \\ \hline
+\noindent \textbf{Experiment 6.3:} & Conduct experiment 6.1; however use Polynomial Regression \\ \hline
+\noindent \textbf{Experiment 6.4:} &  Conduct experiment 6.3; With 10 Folds Cross Validations  \\ \hline
+\noindent \textbf{Experiment 6.5:} & { Conduct experiment 6.1; however, use a) Random Forest Regression  with or  without 10 Folds  Cross Validations. b) Utilize  Polynomial Regression in  the process.} \\ \hline
+\noindent \textbf{Experiment 6.6:} & { Conduct experiment 6.1; however, use a) Bayesian prediction with or without  10 Folds  Cross Validations.  b) Use Polynomial Fit} \\ \hline
+\end{longtable}
 
-%\begin{center}
-\begin{table}[!htb]
-%\small
-\caption{\textbf{Set 7: CKD Mortality using Survey data i.e. No aggregation on Age Groups}}
+\begin{table}[!ht]
+\caption{\textbf{Set 7: Find effect on  CKD Mortality using survey data with no data aggregation by Age Groups}}
+\label{experiment-8}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Input Data:} & Bring CKD mortality data to each participant using the corresponding age\\
+\noindent \textbf{Input Data:} & Bring CKD mortality data to each participant using the corresponding ages\\
 \hline
 \multicolumn{2}{|p{15cm}|} { { \noindent Use PCA (to find contributing food groups and subgroups) and then Regression to find  correlation  between mortality and Food Groups/Subgroups/ACR values}} \\
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
 
-%\begin{center}
-\begin{table}[!htb]
-%%\small
-\caption{\textbf{Set 8: Experiments using Regression: No aggregated (on age groups) survey data} }
+\begin{table}[!ht]
+\caption{\textbf{Set 8:  Utilize Regression and Bayesian to predict Mortality  using survey data with no data aggregation by Age Groups}}
+\label{experiment-9}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Input Data:} & Bring CKD mortality data to each participant using the corresponding age\\
+\noindent \textbf{Input Data:} & Bring CKD mortality data to each participant using the corresponding age i.e. Input dataset from Set 7 can be used here as the Input dataset \\
 \hline
-\multicolumn{2}{|p{15cm}|} { { \noindent  And then utilize Machine Learning Approaches for Mortality Prediction on Test Dataset.  Input dataset from Set 7 can be used here as the Input dataset }} \\
+\multicolumn{2}{|p{15cm}|} { { \noindent  And then utilize Machine Learning Approaches including Regression and Bayesian for Mortality Prediction on Test Dataset.   }} \\
 \hline
 \end{tabular}
 \end{table}
-%%\end{center}
 
-%%\begin{center}
-\begin{table}[!htb]
-%%\small
-\caption{\textbf{Set 9: Remaining Life for CKD Patients and Food Groups/Subgroups: No aggregated survey data} }
+\begin{table}[!ht]
+\caption{\textbf{Set 9: Association between Food Groups/Subgroups and Remaining Life for CKD Patients: Use not aggregated dietary intake data}}
+\label{experiment-10}
 \label{experiment-end}
 \vspace{0.25cm}
-\begin{tabular}{| p{4.5cm}  |  p {10.5cm} | }
+\begin{tabular}{| p{3cm}  |  p {12cm} | }
 \hline
-\noindent \textbf{Input Data:} & {Bring remaining life data to each participant using the corresponding age  and CKD status} \\
+\noindent \textbf{Input Data:} & {Bring remaining life data such as 5 years survival probabilities for each participant using the corresponding age and CKD status } \\
 \hline
-\multicolumn{2}{|p{15cm}|} { Use PCA (to find contributing food groups and subgroups) and then Regression to find  correlation between remaining life  and Food Groups/ Subgroups/ (ACR values optional)  } \\
+\multicolumn{2}{|p{15cm}|} { Use PCA (to find contributing food groups and subgroups) and then utilize Regression to find correlation between remaining life probabilities and Food Groups/Subgroups} \\
 \hline
 \end{tabular}
 \end{table}
-%\end{center}
